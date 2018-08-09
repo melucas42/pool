@@ -1,0 +1,43 @@
+{
+    "copyright": "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. \u00a9 NHL 2018. All Rights Reserved.",
+    "prospects": [
+        {
+            "id": 72816,
+            "fullName": "Dennis Busby",
+            "link": "/api/v1/draft/prospects/72816",
+            "firstName": "Dennis",
+            "lastName": "Busby",
+            "birthDate": "2000-01-06",
+            "birthCity": "Richmond Hill",
+            "birthStateProvince": "ON",
+            "birthCountry": "CAN",
+            "height": "5' 10\"",
+            "weight": 188,
+            "shootsCatches": "R",
+            "primaryPosition": {
+                "code": "D",
+                "name": "Defenseman",
+                "type": "Defenseman",
+                "abbreviation": "D"
+            },
+            "prospectCategory": {
+                "id": 1,
+                "shortName": "NA Skater",
+                "name": "North American Skater"
+            },
+            "amateurTeam": {
+                "name": "FLINT",
+                "link": "/api/v1/teams/null"
+            },
+            "amateurLeague": {
+                "name": "OHL",
+                "link": "/api/v1/league/null"
+            },
+            "ranks": {
+                "midterm": 922,
+                "finalRank": 918,
+                "draftYear": 2018
+            }
+        }
+    ]
+}

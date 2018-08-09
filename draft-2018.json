@@ -1,0 +1,3524 @@
+{
+    "copyright": "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. \u00a9 NHL 2018. All Rights Reserved.",
+    "drafts": [
+        {
+            "draftYear": 2018,
+            "rounds": [
+                {
+                    "roundNumber": 1,
+                    "round": "1",
+                    "picks": [
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 1,
+                            "pickInRound": 1,
+                            "team": {
+                                "id": 7,
+                                "name": "Buffalo Sabres",
+                                "link": "/api/v1/teams/7"
+                            },
+                            "prospect": {
+                                "id": 71988,
+                                "fullName": "Rasmus Dahlin",
+                                "link": "/api/v1/draft/prospects/71988"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 2,
+                            "pickInRound": 2,
+                            "team": {
+                                "id": 12,
+                                "name": "Carolina Hurricanes",
+                                "link": "/api/v1/teams/12"
+                            },
+                            "prospect": {
+                                "id": 71192,
+                                "fullName": "Andrei Svechnikov",
+                                "link": "/api/v1/draft/prospects/71192"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 3,
+                            "pickInRound": 3,
+                            "team": {
+                                "id": 8,
+                                "name": "Montr\u00e9al Canadiens",
+                                "link": "/api/v1/teams/8"
+                            },
+                            "prospect": {
+                                "id": 71161,
+                                "fullName": "Jesperi Kotkaniemi",
+                                "link": "/api/v1/draft/prospects/71161"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 4,
+                            "pickInRound": 4,
+                            "team": {
+                                "id": 9,
+                                "name": "Ottawa Senators",
+                                "link": "/api/v1/teams/9"
+                            },
+                            "prospect": {
+                                "id": 67970,
+                                "fullName": "Brady Tkachuk",
+                                "link": "/api/v1/draft/prospects/67970"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 5,
+                            "pickInRound": 5,
+                            "team": {
+                                "id": 53,
+                                "name": "Arizona Coyotes",
+                                "link": "/api/v1/teams/53"
+                            },
+                            "prospect": {
+                                "id": 72803,
+                                "fullName": "Barrett Hayton",
+                                "link": "/api/v1/draft/prospects/72803"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 6,
+                            "pickInRound": 6,
+                            "team": {
+                                "id": 17,
+                                "name": "Detroit Red Wings",
+                                "link": "/api/v1/teams/17"
+                            },
+                            "prospect": {
+                                "id": 69035,
+                                "fullName": "Filip Zadina",
+                                "link": "/api/v1/draft/prospects/69035"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 7,
+                            "pickInRound": 7,
+                            "team": {
+                                "id": 23,
+                                "name": "Vancouver Canucks",
+                                "link": "/api/v1/teams/23"
+                            },
+                            "prospect": {
+                                "id": 67650,
+                                "fullName": "Quintin Hughes",
+                                "link": "/api/v1/draft/prospects/67650"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 8,
+                            "pickInRound": 8,
+                            "team": {
+                                "id": 16,
+                                "name": "Chicago Blackhawks",
+                                "link": "/api/v1/teams/16"
+                            },
+                            "prospect": {
+                                "id": 73050,
+                                "fullName": "Adam Boqvist",
+                                "link": "/api/v1/draft/prospects/73050"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 9,
+                            "pickInRound": 9,
+                            "team": {
+                                "id": 3,
+                                "name": "New York Rangers",
+                                "link": "/api/v1/teams/3"
+                            },
+                            "prospect": {
+                                "id": 71697,
+                                "fullName": "Vitali Kravtsov",
+                                "link": "/api/v1/draft/prospects/71697"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 10,
+                            "pickInRound": 10,
+                            "team": {
+                                "id": 22,
+                                "name": "Edmonton Oilers",
+                                "link": "/api/v1/teams/22"
+                            },
+                            "prospect": {
+                                "id": 68090,
+                                "fullName": "Evan Bouchard",
+                                "link": "/api/v1/draft/prospects/68090"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 11,
+                            "pickInRound": 11,
+                            "team": {
+                                "id": 2,
+                                "name": "New York Islanders",
+                                "link": "/api/v1/teams/2"
+                            },
+                            "prospect": {
+                                "id": 62866,
+                                "fullName": "Oliver Wahlstrom",
+                                "link": "/api/v1/draft/prospects/62866"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 12,
+                            "pickInRound": 12,
+                            "team": {
+                                "id": 2,
+                                "name": "New York Islanders",
+                                "link": "/api/v1/teams/2"
+                            },
+                            "prospect": {
+                                "id": 72997,
+                                "fullName": "Noah Dobson",
+                                "link": "/api/v1/draft/prospects/72997"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 13,
+                            "pickInRound": 13,
+                            "team": {
+                                "id": 25,
+                                "name": "Dallas Stars",
+                                "link": "/api/v1/teams/25"
+                            },
+                            "prospect": {
+                                "id": 72799,
+                                "fullName": "Ty Dellandrea",
+                                "link": "/api/v1/draft/prospects/72799"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 14,
+                            "pickInRound": 14,
+                            "team": {
+                                "id": 4,
+                                "name": "Philadelphia Flyers",
+                                "link": "/api/v1/teams/4"
+                            },
+                            "prospect": {
+                                "id": 67490,
+                                "fullName": "Joel Farabee",
+                                "link": "/api/v1/draft/prospects/67490"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 15,
+                            "pickInRound": 15,
+                            "team": {
+                                "id": 13,
+                                "name": "Florida Panthers",
+                                "link": "/api/v1/teams/13"
+                            },
+                            "prospect": {
+                                "id": 72291,
+                                "fullName": "Grigori Denisenko",
+                                "link": "/api/v1/draft/prospects/72291"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 16,
+                            "pickInRound": 16,
+                            "team": {
+                                "id": 21,
+                                "name": "Colorado Avalanche",
+                                "link": "/api/v1/teams/21"
+                            },
+                            "prospect": {
+                                "id": 69038,
+                                "fullName": "Martin Kaut",
+                                "link": "/api/v1/draft/prospects/69038"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 17,
+                            "pickInRound": 17,
+                            "team": {
+                                "id": 1,
+                                "name": "New Jersey Devils",
+                                "link": "/api/v1/teams/1"
+                            },
+                            "prospect": {
+                                "id": 68499,
+                                "fullName": "Ty Smith",
+                                "link": "/api/v1/draft/prospects/68499"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 18,
+                            "pickInRound": 18,
+                            "team": {
+                                "id": 29,
+                                "name": "Columbus Blue Jackets",
+                                "link": "/api/v1/teams/29"
+                            },
+                            "prospect": {
+                                "id": 72811,
+                                "fullName": "Liam Foudy",
+                                "link": "/api/v1/draft/prospects/72811"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 19,
+                            "pickInRound": 19,
+                            "team": {
+                                "id": 4,
+                                "name": "Philadelphia Flyers",
+                                "link": "/api/v1/teams/4"
+                            },
+                            "prospect": {
+                                "id": 74371,
+                                "fullName": "Jay O'Brien",
+                                "link": "/api/v1/draft/prospects/74371"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 20,
+                            "pickInRound": 20,
+                            "team": {
+                                "id": 26,
+                                "name": "Los Angeles Kings",
+                                "link": "/api/v1/teams/26"
+                            },
+                            "prospect": {
+                                "id": 72789,
+                                "fullName": "Rasmus Kupari",
+                                "link": "/api/v1/draft/prospects/72789"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 21,
+                            "pickInRound": 21,
+                            "team": {
+                                "id": 28,
+                                "name": "San Jose Sharks",
+                                "link": "/api/v1/teams/28"
+                            },
+                            "prospect": {
+                                "id": 72796,
+                                "fullName": "Ryan Merkley",
+                                "link": "/api/v1/draft/prospects/72796"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 22,
+                            "pickInRound": 22,
+                            "team": {
+                                "id": 3,
+                                "name": "New York Rangers",
+                                "link": "/api/v1/teams/3"
+                            },
+                            "prospect": {
+                                "id": 68872,
+                                "fullName": "K'Andre Miller",
+                                "link": "/api/v1/draft/prospects/68872"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 23,
+                            "pickInRound": 23,
+                            "team": {
+                                "id": 24,
+                                "name": "Anaheim Ducks",
+                                "link": "/api/v1/teams/24"
+                            },
+                            "prospect": {
+                                "id": 68262,
+                                "fullName": "Isac Lundestrom",
+                                "link": "/api/v1/draft/prospects/68262"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 24,
+                            "pickInRound": 24,
+                            "team": {
+                                "id": 30,
+                                "name": "Minnesota Wild",
+                                "link": "/api/v1/teams/30"
+                            },
+                            "prospect": {
+                                "id": 73051,
+                                "fullName": "Filip Johansson",
+                                "link": "/api/v1/draft/prospects/73051"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 25,
+                            "pickInRound": 25,
+                            "team": {
+                                "id": 19,
+                                "name": "St. Louis Blues",
+                                "link": "/api/v1/teams/19"
+                            },
+                            "prospect": {
+                                "id": 69994,
+                                "fullName": "Dominik Bokk",
+                                "link": "/api/v1/draft/prospects/69994"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 26,
+                            "pickInRound": 26,
+                            "team": {
+                                "id": 9,
+                                "name": "Ottawa Senators",
+                                "link": "/api/v1/teams/9"
+                            },
+                            "prospect": {
+                                "id": 75182,
+                                "fullName": "Jacob Bernard-Docker",
+                                "link": "/api/v1/draft/prospects/75182"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 27,
+                            "pickInRound": 27,
+                            "team": {
+                                "id": 16,
+                                "name": "Chicago Blackhawks",
+                                "link": "/api/v1/teams/16"
+                            },
+                            "prospect": {
+                                "id": 68699,
+                                "fullName": "Nicolas Beaudin",
+                                "link": "/api/v1/draft/prospects/68699"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 28,
+                            "pickInRound": 28,
+                            "team": {
+                                "id": 3,
+                                "name": "New York Rangers",
+                                "link": "/api/v1/teams/3"
+                            },
+                            "prospect": {
+                                "id": 75162,
+                                "fullName": "Nils Lundkvist",
+                                "link": "/api/v1/draft/prospects/75162"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 29,
+                            "pickInRound": 29,
+                            "team": {
+                                "id": 10,
+                                "name": "Toronto Maple Leafs",
+                                "link": "/api/v1/teams/10"
+                            },
+                            "prospect": {
+                                "id": 73053,
+                                "fullName": "Rasmus Sandin",
+                                "link": "/api/v1/draft/prospects/73053"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 30,
+                            "pickInRound": 30,
+                            "team": {
+                                "id": 17,
+                                "name": "Detroit Red Wings",
+                                "link": "/api/v1/teams/17"
+                            },
+                            "prospect": {
+                                "id": 68662,
+                                "fullName": "Joseph Veleno",
+                                "link": "/api/v1/draft/prospects/68662"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "1",
+                            "pickOverall": 31,
+                            "pickInRound": 31,
+                            "team": {
+                                "id": 15,
+                                "name": "Washington Capitals",
+                                "link": "/api/v1/teams/15"
+                            },
+                            "prospect": {
+                                "id": 69083,
+                                "fullName": "Alexander Alexeyev",
+                                "link": "/api/v1/draft/prospects/69083"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roundNumber": 2,
+                    "round": "2",
+                    "picks": [
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 32,
+                            "pickInRound": 1,
+                            "team": {
+                                "id": 7,
+                                "name": "Buffalo Sabres",
+                                "link": "/api/v1/teams/7"
+                            },
+                            "prospect": {
+                                "id": 68491,
+                                "fullName": "Mattias Samuelsson",
+                                "link": "/api/v1/draft/prospects/68491"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 33,
+                            "pickInRound": 2,
+                            "team": {
+                                "id": 17,
+                                "name": "Detroit Red Wings",
+                                "link": "/api/v1/teams/17"
+                            },
+                            "prospect": {
+                                "id": 73058,
+                                "fullName": "Jonatan Berggren",
+                                "link": "/api/v1/draft/prospects/73058"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 34,
+                            "pickInRound": 3,
+                            "team": {
+                                "id": 13,
+                                "name": "Florida Panthers",
+                                "link": "/api/v1/teams/13"
+                            },
+                            "prospect": {
+                                "id": 72818,
+                                "fullName": "Serron Noel",
+                                "link": "/api/v1/draft/prospects/72818"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 35,
+                            "pickInRound": 4,
+                            "team": {
+                                "id": 8,
+                                "name": "Montr\u00e9al Canadiens",
+                                "link": "/api/v1/teams/8"
+                            },
+                            "prospect": {
+                                "id": 68987,
+                                "fullName": "Jesse Ylonen",
+                                "link": "/api/v1/draft/prospects/68987"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 36,
+                            "pickInRound": 5,
+                            "team": {
+                                "id": 17,
+                                "name": "Detroit Red Wings",
+                                "link": "/api/v1/teams/17"
+                            },
+                            "prospect": {
+                                "id": 72993,
+                                "fullName": "Jared Mcisaac",
+                                "link": "/api/v1/draft/prospects/72993"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 37,
+                            "pickInRound": 6,
+                            "team": {
+                                "id": 23,
+                                "name": "Vancouver Canucks",
+                                "link": "/api/v1/teams/23"
+                            },
+                            "prospect": {
+                                "id": 68502,
+                                "fullName": "Jett Woo",
+                                "link": "/api/v1/draft/prospects/68502"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 38,
+                            "pickInRound": 7,
+                            "team": {
+                                "id": 8,
+                                "name": "Montr\u00e9al Canadiens",
+                                "link": "/api/v1/teams/8"
+                            },
+                            "prospect": {
+                                "id": 76675,
+                                "fullName": "Alexander Romanov",
+                                "link": "/api/v1/draft/prospects/76675"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 39,
+                            "pickInRound": 8,
+                            "team": {
+                                "id": 3,
+                                "name": "New York Rangers",
+                                "link": "/api/v1/teams/3"
+                            },
+                            "prospect": {
+                                "id": 72022,
+                                "fullName": "Olof Lindbom",
+                                "link": "/api/v1/draft/prospects/72022"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 40,
+                            "pickInRound": 9,
+                            "team": {
+                                "id": 22,
+                                "name": "Edmonton Oilers",
+                                "link": "/api/v1/teams/22"
+                            },
+                            "prospect": {
+                                "id": 68077,
+                                "fullName": "Ryan Mcleod",
+                                "link": "/api/v1/draft/prospects/68077"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 41,
+                            "pickInRound": 10,
+                            "team": {
+                                "id": 2,
+                                "name": "New York Islanders",
+                                "link": "/api/v1/teams/2"
+                            },
+                            "prospect": {
+                                "id": 69207,
+                                "fullName": "Bode Wilde",
+                                "link": "/api/v1/draft/prospects/69207"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 42,
+                            "pickInRound": 11,
+                            "team": {
+                                "id": 12,
+                                "name": "Carolina Hurricanes",
+                                "link": "/api/v1/teams/12"
+                            },
+                            "prospect": {
+                                "id": 71906,
+                                "fullName": "Jack Drury",
+                                "link": "/api/v1/draft/prospects/71906"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 43,
+                            "pickInRound": 12,
+                            "team": {
+                                "id": 2,
+                                "name": "New York Islanders",
+                                "link": "/api/v1/teams/2"
+                            },
+                            "prospect": {
+                                "id": 77611,
+                                "fullName": "Ruslan Iskhakov",
+                                "link": "/api/v1/draft/prospects/77611"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 44,
+                            "pickInRound": 13,
+                            "team": {
+                                "id": 25,
+                                "name": "Dallas Stars",
+                                "link": "/api/v1/teams/25"
+                            },
+                            "prospect": {
+                                "id": 74987,
+                                "fullName": "Albin Eriksson",
+                                "link": "/api/v1/draft/prospects/74987"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 45,
+                            "pickInRound": 14,
+                            "team": {
+                                "id": 19,
+                                "name": "St. Louis Blues",
+                                "link": "/api/v1/teams/19"
+                            },
+                            "prospect": {
+                                "id": 68396,
+                                "fullName": "Scott Perunovich",
+                                "link": "/api/v1/draft/prospects/68396"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 46,
+                            "pickInRound": 15,
+                            "team": {
+                                "id": 15,
+                                "name": "Washington Capitals",
+                                "link": "/api/v1/teams/15"
+                            },
+                            "prospect": {
+                                "id": 67442,
+                                "fullName": "Martin Fehervary",
+                                "link": "/api/v1/draft/prospects/67442"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 47,
+                            "pickInRound": 16,
+                            "team": {
+                                "id": 15,
+                                "name": "Washington Capitals",
+                                "link": "/api/v1/teams/15"
+                            },
+                            "prospect": {
+                                "id": 68173,
+                                "fullName": "Kody Clark",
+                                "link": "/api/v1/draft/prospects/68173"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 48,
+                            "pickInRound": 17,
+                            "team": {
+                                "id": 9,
+                                "name": "Ottawa Senators",
+                                "link": "/api/v1/teams/9"
+                            },
+                            "prospect": {
+                                "id": 68510,
+                                "fullName": "Jonathan Tychonick",
+                                "link": "/api/v1/draft/prospects/68510"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 49,
+                            "pickInRound": 18,
+                            "team": {
+                                "id": 29,
+                                "name": "Columbus Blue Jackets",
+                                "link": "/api/v1/teams/29"
+                            },
+                            "prospect": {
+                                "id": 76190,
+                                "fullName": "Kirill Marchenko",
+                                "link": "/api/v1/draft/prospects/76190"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 50,
+                            "pickInRound": 19,
+                            "team": {
+                                "id": 4,
+                                "name": "Philadelphia Flyers",
+                                "link": "/api/v1/teams/4"
+                            },
+                            "prospect": {
+                                "id": 73054,
+                                "fullName": "Adam Ginning",
+                                "link": "/api/v1/draft/prospects/73054"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 51,
+                            "pickInRound": 20,
+                            "team": {
+                                "id": 26,
+                                "name": "Los Angeles Kings",
+                                "link": "/api/v1/teams/26"
+                            },
+                            "prospect": {
+                                "id": 72806,
+                                "fullName": "Akil Thomas",
+                                "link": "/api/v1/draft/prospects/72806"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 52,
+                            "pickInRound": 21,
+                            "team": {
+                                "id": 10,
+                                "name": "Toronto Maple Leafs",
+                                "link": "/api/v1/teams/10"
+                            },
+                            "prospect": {
+                                "id": 64032,
+                                "fullName": "Sean Durzi",
+                                "link": "/api/v1/draft/prospects/64032"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 53,
+                            "pickInRound": 22,
+                            "team": {
+                                "id": 5,
+                                "name": "Pittsburgh Penguins",
+                                "link": "/api/v1/teams/5"
+                            },
+                            "prospect": {
+                                "id": 68500,
+                                "fullName": "Calen Addison",
+                                "link": "/api/v1/draft/prospects/68500"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 54,
+                            "pickInRound": 23,
+                            "team": {
+                                "id": 24,
+                                "name": "Anaheim Ducks",
+                                "link": "/api/v1/teams/24"
+                            },
+                            "prospect": {
+                                "id": 73045,
+                                "fullName": "Benoit-Olivier Groulx",
+                                "link": "/api/v1/draft/prospects/73045"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 55,
+                            "pickInRound": 24,
+                            "team": {
+                                "id": 53,
+                                "name": "Arizona Coyotes",
+                                "link": "/api/v1/teams/53"
+                            },
+                            "prospect": {
+                                "id": 72824,
+                                "fullName": "Kevin Bahl",
+                                "link": "/api/v1/draft/prospects/72824"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 56,
+                            "pickInRound": 25,
+                            "team": {
+                                "id": 8,
+                                "name": "Montr\u00e9al Canadiens",
+                                "link": "/api/v1/teams/8"
+                            },
+                            "prospect": {
+                                "id": 72011,
+                                "fullName": "Jacob Olofsson",
+                                "link": "/api/v1/draft/prospects/72011"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 57,
+                            "pickInRound": 26,
+                            "team": {
+                                "id": 6,
+                                "name": "Boston Bruins",
+                                "link": "/api/v1/teams/6"
+                            },
+                            "prospect": {
+                                "id": 73052,
+                                "fullName": "Axel Andersson",
+                                "link": "/api/v1/draft/prospects/73052"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 58,
+                            "pickInRound": 27,
+                            "team": {
+                                "id": 5,
+                                "name": "Pittsburgh Penguins",
+                                "link": "/api/v1/teams/5"
+                            },
+                            "prospect": {
+                                "id": 72012,
+                                "fullName": "Filip Hallander",
+                                "link": "/api/v1/draft/prospects/72012"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 59,
+                            "pickInRound": 28,
+                            "team": {
+                                "id": 14,
+                                "name": "Tampa Bay Lightning",
+                                "link": "/api/v1/teams/14"
+                            },
+                            "prospect": {
+                                "id": 72995,
+                                "fullName": "Gabriel Fortier",
+                                "link": "/api/v1/draft/prospects/72995"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 60,
+                            "pickInRound": 29,
+                            "team": {
+                                "id": 52,
+                                "name": "Winnipeg Jets",
+                                "link": "/api/v1/teams/52"
+                            },
+                            "prospect": {
+                                "id": 73056,
+                                "fullName": "David Gustafsson",
+                                "link": "/api/v1/draft/prospects/73056"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 61,
+                            "pickInRound": 30,
+                            "team": {
+                                "id": 54,
+                                "name": "Vegas Golden Knights",
+                                "link": "/api/v1/teams/54"
+                            },
+                            "prospect": {
+                                "id": 78825,
+                                "fullName": "Ivan Morozov",
+                                "link": "/api/v1/draft/prospects/78825"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "2",
+                            "pickOverall": 62,
+                            "pickInRound": 31,
+                            "team": {
+                                "id": 22,
+                                "name": "Edmonton Oilers",
+                                "link": "/api/v1/teams/22"
+                            },
+                            "prospect": {
+                                "id": 72994,
+                                "fullName": "Olivier Rodrigue",
+                                "link": "/api/v1/draft/prospects/72994"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roundNumber": 3,
+                    "round": "3",
+                    "picks": [
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 63,
+                            "pickInRound": 1,
+                            "team": {
+                                "id": 30,
+                                "name": "Minnesota Wild",
+                                "link": "/api/v1/teams/30"
+                            },
+                            "prospect": {
+                                "id": 72813,
+                                "fullName": "Jack Mcbain",
+                                "link": "/api/v1/draft/prospects/72813"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 64,
+                            "pickInRound": 2,
+                            "team": {
+                                "id": 21,
+                                "name": "Colorado Avalanche",
+                                "link": "/api/v1/teams/21"
+                            },
+                            "prospect": {
+                                "id": 73210,
+                                "fullName": "Justus Annunen",
+                                "link": "/api/v1/draft/prospects/73210"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 65,
+                            "pickInRound": 3,
+                            "team": {
+                                "id": 53,
+                                "name": "Arizona Coyotes",
+                                "link": "/api/v1/teams/53"
+                            },
+                            "prospect": {
+                                "id": 74036,
+                                "fullName": "Jan Jenik",
+                                "link": "/api/v1/draft/prospects/74036"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 66,
+                            "pickInRound": 4,
+                            "team": {
+                                "id": 8,
+                                "name": "Montr\u00e9al Canadiens",
+                                "link": "/api/v1/teams/8"
+                            },
+                            "prospect": {
+                                "id": 72821,
+                                "fullName": "Cameron Hillis",
+                                "link": "/api/v1/draft/prospects/72821"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 67,
+                            "pickInRound": 5,
+                            "team": {
+                                "id": 17,
+                                "name": "Detroit Red Wings",
+                                "link": "/api/v1/teams/17"
+                            },
+                            "prospect": {
+                                "id": 71253,
+                                "fullName": "Alec Regula",
+                                "link": "/api/v1/draft/prospects/71253"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 68,
+                            "pickInRound": 6,
+                            "team": {
+                                "id": 23,
+                                "name": "Vancouver Canucks",
+                                "link": "/api/v1/teams/23"
+                            },
+                            "prospect": {
+                                "id": 68209,
+                                "fullName": "Tyler Madden",
+                                "link": "/api/v1/draft/prospects/68209"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 69,
+                            "pickInRound": 7,
+                            "team": {
+                                "id": 16,
+                                "name": "Chicago Blackhawks",
+                                "link": "/api/v1/teams/16"
+                            },
+                            "prospect": {
+                                "id": 66983,
+                                "fullName": "Jake Wise",
+                                "link": "/api/v1/draft/prospects/66983"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 70,
+                            "pickInRound": 8,
+                            "team": {
+                                "id": 3,
+                                "name": "New York Rangers",
+                                "link": "/api/v1/teams/3"
+                            },
+                            "prospect": {
+                                "id": 74872,
+                                "fullName": "Jacob Ragnarsson",
+                                "link": "/api/v1/draft/prospects/74872"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 71,
+                            "pickInRound": 9,
+                            "team": {
+                                "id": 8,
+                                "name": "Montr\u00e9al Canadiens",
+                                "link": "/api/v1/teams/8"
+                            },
+                            "prospect": {
+                                "id": 71896,
+                                "fullName": "Jordan Harris",
+                                "link": "/api/v1/draft/prospects/71896"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 72,
+                            "pickInRound": 10,
+                            "team": {
+                                "id": 2,
+                                "name": "New York Islanders",
+                                "link": "/api/v1/teams/2"
+                            },
+                            "prospect": {
+                                "id": 69017,
+                                "fullName": "Jakub Skarek",
+                                "link": "/api/v1/draft/prospects/69017"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 73,
+                            "pickInRound": 11,
+                            "team": {
+                                "id": 53,
+                                "name": "Arizona Coyotes",
+                                "link": "/api/v1/teams/53"
+                            },
+                            "prospect": {
+                                "id": 71903,
+                                "fullName": "Ty Emberson",
+                                "link": "/api/v1/draft/prospects/71903"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 74,
+                            "pickInRound": 12,
+                            "team": {
+                                "id": 16,
+                                "name": "Chicago Blackhawks",
+                                "link": "/api/v1/teams/16"
+                            },
+                            "prospect": {
+                                "id": 73212,
+                                "fullName": "Niklas Nordgren",
+                                "link": "/api/v1/draft/prospects/73212"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 75,
+                            "pickInRound": 13,
+                            "team": {
+                                "id": 25,
+                                "name": "Dallas Stars",
+                                "link": "/api/v1/teams/25"
+                            },
+                            "prospect": {
+                                "id": 71989,
+                                "fullName": "Oskar Back",
+                                "link": "/api/v1/draft/prospects/71989"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 76,
+                            "pickInRound": 14,
+                            "team": {
+                                "id": 10,
+                                "name": "Toronto Maple Leafs",
+                                "link": "/api/v1/teams/10"
+                            },
+                            "prospect": {
+                                "id": 72820,
+                                "fullName": "Semyon Der-Arguchintsev",
+                                "link": "/api/v1/draft/prospects/72820"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 77,
+                            "pickInRound": 15,
+                            "team": {
+                                "id": 6,
+                                "name": "Boston Bruins",
+                                "link": "/api/v1/teams/6"
+                            },
+                            "prospect": {
+                                "id": 75222,
+                                "fullName": "Jakub Lauko",
+                                "link": "/api/v1/draft/prospects/75222"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 78,
+                            "pickInRound": 16,
+                            "team": {
+                                "id": 21,
+                                "name": "Colorado Avalanche",
+                                "link": "/api/v1/teams/21"
+                            },
+                            "prospect": {
+                                "id": 72795,
+                                "fullName": "Sampo Ranta",
+                                "link": "/api/v1/draft/prospects/72795"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 79,
+                            "pickInRound": 17,
+                            "team": {
+                                "id": 24,
+                                "name": "Anaheim Ducks",
+                                "link": "/api/v1/teams/24"
+                            },
+                            "prospect": {
+                                "id": 68871,
+                                "fullName": "Blake Mclaughlin",
+                                "link": "/api/v1/draft/prospects/68871"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 80,
+                            "pickInRound": 18,
+                            "team": {
+                                "id": 29,
+                                "name": "Columbus Blue Jackets",
+                                "link": "/api/v1/teams/29"
+                            },
+                            "prospect": {
+                                "id": 76777,
+                                "fullName": "Marcus Karlberg",
+                                "link": "/api/v1/draft/prospects/76777"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 81,
+                            "pickInRound": 19,
+                            "team": {
+                                "id": 17,
+                                "name": "Detroit Red Wings",
+                                "link": "/api/v1/teams/17"
+                            },
+                            "prospect": {
+                                "id": 79440,
+                                "fullName": "Seth Barton",
+                                "link": "/api/v1/draft/prospects/79440"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 82,
+                            "pickInRound": 20,
+                            "team": {
+                                "id": 26,
+                                "name": "Los Angeles Kings",
+                                "link": "/api/v1/teams/26"
+                            },
+                            "prospect": {
+                                "id": 72921,
+                                "fullName": "Bulat Shafigullin",
+                                "link": "/api/v1/draft/prospects/72921"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 83,
+                            "pickInRound": 21,
+                            "team": {
+                                "id": 10,
+                                "name": "Toronto Maple Leafs",
+                                "link": "/api/v1/teams/10"
+                            },
+                            "prospect": {
+                                "id": 68508,
+                                "fullName": "Riley Stotts",
+                                "link": "/api/v1/draft/prospects/68508"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 84,
+                            "pickInRound": 22,
+                            "team": {
+                                "id": 17,
+                                "name": "Detroit Red Wings",
+                                "link": "/api/v1/teams/17"
+                            },
+                            "prospect": {
+                                "id": 80820,
+                                "fullName": "Jesper Eliasson",
+                                "link": "/api/v1/draft/prospects/80820"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 85,
+                            "pickInRound": 23,
+                            "team": {
+                                "id": 24,
+                                "name": "Anaheim Ducks",
+                                "link": "/api/v1/teams/24"
+                            },
+                            "prospect": {
+                                "id": 72054,
+                                "fullName": "Lukas Dostal",
+                                "link": "/api/v1/draft/prospects/72054"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 86,
+                            "pickInRound": 24,
+                            "team": {
+                                "id": 30,
+                                "name": "Minnesota Wild",
+                                "link": "/api/v1/teams/30"
+                            },
+                            "prospect": {
+                                "id": 69096,
+                                "fullName": "Alexander Khovanov",
+                                "link": "/api/v1/draft/prospects/69096"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 87,
+                            "pickInRound": 25,
+                            "team": {
+                                "id": 28,
+                                "name": "San Jose Sharks",
+                                "link": "/api/v1/teams/28"
+                            },
+                            "prospect": {
+                                "id": 78493,
+                                "fullName": "Linus Karlsson",
+                                "link": "/api/v1/draft/prospects/78493"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 88,
+                            "pickInRound": 26,
+                            "team": {
+                                "id": 3,
+                                "name": "New York Rangers",
+                                "link": "/api/v1/teams/3"
+                            },
+                            "prospect": {
+                                "id": 67021,
+                                "fullName": "Joey Keane",
+                                "link": "/api/v1/draft/prospects/67021"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 89,
+                            "pickInRound": 27,
+                            "team": {
+                                "id": 13,
+                                "name": "Florida Panthers",
+                                "link": "/api/v1/teams/13"
+                            },
+                            "prospect": {
+                                "id": 66253,
+                                "fullName": "Logan Hutsko",
+                                "link": "/api/v1/draft/prospects/66253"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 90,
+                            "pickInRound": 28,
+                            "team": {
+                                "id": 14,
+                                "name": "Tampa Bay Lightning",
+                                "link": "/api/v1/teams/14"
+                            },
+                            "prospect": {
+                                "id": 77093,
+                                "fullName": "Dmitry Semykin",
+                                "link": "/api/v1/draft/prospects/77093"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 91,
+                            "pickInRound": 29,
+                            "team": {
+                                "id": 52,
+                                "name": "Winnipeg Jets",
+                                "link": "/api/v1/teams/52"
+                            },
+                            "prospect": {
+                                "id": 80244,
+                                "fullName": "Nathan Smith",
+                                "link": "/api/v1/draft/prospects/80244"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 92,
+                            "pickInRound": 30,
+                            "team": {
+                                "id": 30,
+                                "name": "Minnesota Wild",
+                                "link": "/api/v1/teams/30"
+                            },
+                            "prospect": {
+                                "id": 64367,
+                                "fullName": "Connor Dewar",
+                                "link": "/api/v1/draft/prospects/64367"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "3",
+                            "pickOverall": 93,
+                            "pickInRound": 31,
+                            "team": {
+                                "id": 15,
+                                "name": "Washington Capitals",
+                                "link": "/api/v1/teams/15"
+                            },
+                            "prospect": {
+                                "id": 64385,
+                                "fullName": "Riley Sutter",
+                                "link": "/api/v1/draft/prospects/64385"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roundNumber": 4,
+                    "round": "4",
+                    "picks": [
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 94,
+                            "pickInRound": 1,
+                            "team": {
+                                "id": 7,
+                                "name": "Buffalo Sabres",
+                                "link": "/api/v1/teams/7"
+                            },
+                            "prospect": {
+                                "id": 75225,
+                                "fullName": "Matej Pekar",
+                                "link": "/api/v1/draft/prospects/75225"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 95,
+                            "pickInRound": 2,
+                            "team": {
+                                "id": 9,
+                                "name": "Ottawa Senators",
+                                "link": "/api/v1/teams/9"
+                            },
+                            "prospect": {
+                                "id": 71909,
+                                "fullName": "Jonathan Gruden",
+                                "link": "/api/v1/draft/prospects/71909"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 96,
+                            "pickInRound": 3,
+                            "team": {
+                                "id": 12,
+                                "name": "Carolina Hurricanes",
+                                "link": "/api/v1/teams/12"
+                            },
+                            "prospect": {
+                                "id": 73012,
+                                "fullName": "Luke Henman",
+                                "link": "/api/v1/draft/prospects/73012"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 97,
+                            "pickInRound": 4,
+                            "team": {
+                                "id": 8,
+                                "name": "Montr\u00e9al Canadiens",
+                                "link": "/api/v1/teams/8"
+                            },
+                            "prospect": {
+                                "id": 72812,
+                                "fullName": "Allan Mcshane",
+                                "link": "/api/v1/draft/prospects/72812"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 98,
+                            "pickInRound": 5,
+                            "team": {
+                                "id": 17,
+                                "name": "Detroit Red Wings",
+                                "link": "/api/v1/teams/17"
+                            },
+                            "prospect": {
+                                "id": 71915,
+                                "fullName": "Ryan O'Reilly",
+                                "link": "/api/v1/draft/prospects/71915"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 99,
+                            "pickInRound": 6,
+                            "team": {
+                                "id": 54,
+                                "name": "Vegas Golden Knights",
+                                "link": "/api/v1/teams/54"
+                            },
+                            "prospect": {
+                                "id": 71898,
+                                "fullName": "Stanislav Demin",
+                                "link": "/api/v1/draft/prospects/71898"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 100,
+                            "pickInRound": 7,
+                            "team": {
+                                "id": 25,
+                                "name": "Dallas Stars",
+                                "link": "/api/v1/teams/25"
+                            },
+                            "prospect": {
+                                "id": 63545,
+                                "fullName": "Adam Mascherin",
+                                "link": "/api/v1/draft/prospects/63545"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 101,
+                            "pickInRound": 8,
+                            "team": {
+                                "id": 3,
+                                "name": "New York Rangers",
+                                "link": "/api/v1/teams/3"
+                            },
+                            "prospect": {
+                                "id": 71678,
+                                "fullName": "Nico Gross",
+                                "link": "/api/v1/draft/prospects/71678"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 102,
+                            "pickInRound": 9,
+                            "team": {
+                                "id": 28,
+                                "name": "San Jose Sharks",
+                                "link": "/api/v1/teams/28"
+                            },
+                            "prospect": {
+                                "id": 68590,
+                                "fullName": "Jasper Weatherby",
+                                "link": "/api/v1/draft/prospects/68590"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 103,
+                            "pickInRound": 10,
+                            "team": {
+                                "id": 2,
+                                "name": "New York Islanders",
+                                "link": "/api/v1/teams/2"
+                            },
+                            "prospect": {
+                                "id": 67292,
+                                "fullName": "Jacob Pivonka",
+                                "link": "/api/v1/draft/prospects/67292"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 104,
+                            "pickInRound": 11,
+                            "team": {
+                                "id": 12,
+                                "name": "Carolina Hurricanes",
+                                "link": "/api/v1/teams/12"
+                            },
+                            "prospect": {
+                                "id": 72791,
+                                "fullName": "Lenni Killinen",
+                                "link": "/api/v1/draft/prospects/72791"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 105,
+                            "pickInRound": 12,
+                            "team": {
+                                "id": 20,
+                                "name": "Calgary Flames",
+                                "link": "/api/v1/teams/20"
+                            },
+                            "prospect": {
+                                "id": 69147,
+                                "fullName": "Martin Pospisil",
+                                "link": "/api/v1/draft/prospects/69147"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 106,
+                            "pickInRound": 13,
+                            "team": {
+                                "id": 25,
+                                "name": "Dallas Stars",
+                                "link": "/api/v1/teams/25"
+                            },
+                            "prospect": {
+                                "id": 73906,
+                                "fullName": "Curtis Douglas",
+                                "link": "/api/v1/draft/prospects/73906"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 107,
+                            "pickInRound": 14,
+                            "team": {
+                                "id": 19,
+                                "name": "St. Louis Blues",
+                                "link": "/api/v1/teams/19"
+                            },
+                            "prospect": {
+                                "id": 79928,
+                                "fullName": "Joel Hofer",
+                                "link": "/api/v1/draft/prospects/79928"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 108,
+                            "pickInRound": 15,
+                            "team": {
+                                "id": 20,
+                                "name": "Calgary Flames",
+                                "link": "/api/v1/teams/20"
+                            },
+                            "prospect": {
+                                "id": 77202,
+                                "fullName": "Demetrios Koumontzis",
+                                "link": "/api/v1/draft/prospects/77202"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 109,
+                            "pickInRound": 16,
+                            "team": {
+                                "id": 21,
+                                "name": "Colorado Avalanche",
+                                "link": "/api/v1/teams/21"
+                            },
+                            "prospect": {
+                                "id": 71910,
+                                "fullName": "Tyler Weiss",
+                                "link": "/api/v1/draft/prospects/71910"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 110,
+                            "pickInRound": 17,
+                            "team": {
+                                "id": 1,
+                                "name": "New Jersey Devils",
+                                "link": "/api/v1/teams/1"
+                            },
+                            "prospect": {
+                                "id": 73003,
+                                "fullName": "Xavier Bernard",
+                                "link": "/api/v1/draft/prospects/73003"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 111,
+                            "pickInRound": 18,
+                            "team": {
+                                "id": 18,
+                                "name": "Nashville Predators",
+                                "link": "/api/v1/teams/18"
+                            },
+                            "prospect": {
+                                "id": 71196,
+                                "fullName": "Jachym Kondelik",
+                                "link": "/api/v1/draft/prospects/71196"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 112,
+                            "pickInRound": 19,
+                            "team": {
+                                "id": 4,
+                                "name": "Philadelphia Flyers",
+                                "link": "/api/v1/teams/4"
+                            },
+                            "prospect": {
+                                "id": 64533,
+                                "fullName": "John St. Ivany",
+                                "link": "/api/v1/draft/prospects/64533"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 113,
+                            "pickInRound": 20,
+                            "team": {
+                                "id": 26,
+                                "name": "Los Angeles Kings",
+                                "link": "/api/v1/teams/26"
+                            },
+                            "prospect": {
+                                "id": 72804,
+                                "fullName": "Aidan Dudas",
+                                "link": "/api/v1/draft/prospects/72804"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 114,
+                            "pickInRound": 21,
+                            "team": {
+                                "id": 53,
+                                "name": "Arizona Coyotes",
+                                "link": "/api/v1/teams/53"
+                            },
+                            "prospect": {
+                                "id": 74120,
+                                "fullName": "Ivan Prosvetov",
+                                "link": "/api/v1/draft/prospects/74120"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 115,
+                            "pickInRound": 22,
+                            "team": {
+                                "id": 54,
+                                "name": "Vegas Golden Knights",
+                                "link": "/api/v1/teams/54"
+                            },
+                            "prospect": {
+                                "id": 72554,
+                                "fullName": "Paul Cotter",
+                                "link": "/api/v1/draft/prospects/72554"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 116,
+                            "pickInRound": 23,
+                            "team": {
+                                "id": 24,
+                                "name": "Anaheim Ducks",
+                                "link": "/api/v1/teams/24"
+                            },
+                            "prospect": {
+                                "id": 68854,
+                                "fullName": "Jack Perbix",
+                                "link": "/api/v1/draft/prospects/68854"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 117,
+                            "pickInRound": 24,
+                            "team": {
+                                "id": 7,
+                                "name": "Buffalo Sabres",
+                                "link": "/api/v1/teams/7"
+                            },
+                            "prospect": {
+                                "id": 76798,
+                                "fullName": "Linus Lindstrand Cronholm",
+                                "link": "/api/v1/draft/prospects/76798"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 118,
+                            "pickInRound": 25,
+                            "team": {
+                                "id": 10,
+                                "name": "Toronto Maple Leafs",
+                                "link": "/api/v1/teams/10"
+                            },
+                            "prospect": {
+                                "id": 64041,
+                                "fullName": "Mac Hollowell",
+                                "link": "/api/v1/draft/prospects/64041"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 119,
+                            "pickInRound": 26,
+                            "team": {
+                                "id": 6,
+                                "name": "Boston Bruins",
+                                "link": "/api/v1/teams/6"
+                            },
+                            "prospect": {
+                                "id": 71911,
+                                "fullName": "Curtis Hall",
+                                "link": "/api/v1/draft/prospects/71911"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 120,
+                            "pickInRound": 27,
+                            "team": {
+                                "id": 16,
+                                "name": "Chicago Blackhawks",
+                                "link": "/api/v1/teams/16"
+                            },
+                            "prospect": {
+                                "id": 67498,
+                                "fullName": "Philipp Kurashev",
+                                "link": "/api/v1/draft/prospects/67498"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 121,
+                            "pickInRound": 28,
+                            "team": {
+                                "id": 14,
+                                "name": "Tampa Bay Lightning",
+                                "link": "/api/v1/teams/14"
+                            },
+                            "prospect": {
+                                "id": 63351,
+                                "fullName": "Alexander Green",
+                                "link": "/api/v1/draft/prospects/63351"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 122,
+                            "pickInRound": 29,
+                            "team": {
+                                "id": 20,
+                                "name": "Calgary Flames",
+                                "link": "/api/v1/teams/20"
+                            },
+                            "prospect": {
+                                "id": 65269,
+                                "fullName": "Milos Roman",
+                                "link": "/api/v1/draft/prospects/65269"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 123,
+                            "pickInRound": 30,
+                            "team": {
+                                "id": 8,
+                                "name": "Montr\u00e9al Canadiens",
+                                "link": "/api/v1/teams/8"
+                            },
+                            "prospect": {
+                                "id": 73280,
+                                "fullName": "Jack Gorniak",
+                                "link": "/api/v1/draft/prospects/73280"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "4",
+                            "pickOverall": 124,
+                            "pickInRound": 31,
+                            "team": {
+                                "id": 15,
+                                "name": "Washington Capitals",
+                                "link": "/api/v1/teams/15"
+                            },
+                            "prospect": {
+                                "id": 68305,
+                                "fullName": "Mitchell Gibson",
+                                "link": "/api/v1/draft/prospects/68305"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roundNumber": 5,
+                    "round": "5",
+                    "picks": [
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 125,
+                            "pickInRound": 1,
+                            "team": {
+                                "id": 7,
+                                "name": "Buffalo Sabres",
+                                "link": "/api/v1/teams/7"
+                            },
+                            "prospect": {
+                                "id": 72784,
+                                "fullName": "Miska Kukkonen",
+                                "link": "/api/v1/draft/prospects/72784"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 126,
+                            "pickInRound": 2,
+                            "team": {
+                                "id": 9,
+                                "name": "Ottawa Senators",
+                                "link": "/api/v1/teams/9"
+                            },
+                            "prospect": {
+                                "id": 74702,
+                                "fullName": "Angus Crookshank",
+                                "link": "/api/v1/draft/prospects/74702"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 127,
+                            "pickInRound": 3,
+                            "team": {
+                                "id": 4,
+                                "name": "Philadelphia Flyers",
+                                "link": "/api/v1/teams/4"
+                            },
+                            "prospect": {
+                                "id": 64388,
+                                "fullName": "Wyatte Wylie",
+                                "link": "/api/v1/draft/prospects/64388"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 128,
+                            "pickInRound": 4,
+                            "team": {
+                                "id": 8,
+                                "name": "Montr\u00e9al Canadiens",
+                                "link": "/api/v1/teams/8"
+                            },
+                            "prospect": {
+                                "id": 68503,
+                                "fullName": "Cole Fonstad",
+                                "link": "/api/v1/draft/prospects/68503"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 129,
+                            "pickInRound": 5,
+                            "team": {
+                                "id": 5,
+                                "name": "Pittsburgh Penguins",
+                                "link": "/api/v1/teams/5"
+                            },
+                            "prospect": {
+                                "id": 64266,
+                                "fullName": "Justin Almeida",
+                                "link": "/api/v1/draft/prospects/64266"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 130,
+                            "pickInRound": 6,
+                            "team": {
+                                "id": 23,
+                                "name": "Vancouver Canucks",
+                                "link": "/api/v1/teams/23"
+                            },
+                            "prospect": {
+                                "id": 72225,
+                                "fullName": "Toni Utunen",
+                                "link": "/api/v1/draft/prospects/72225"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 131,
+                            "pickInRound": 7,
+                            "team": {
+                                "id": 18,
+                                "name": "Nashville Predators",
+                                "link": "/api/v1/teams/18"
+                            },
+                            "prospect": {
+                                "id": 71897,
+                                "fullName": "Spencer Stastney",
+                                "link": "/api/v1/draft/prospects/71897"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 132,
+                            "pickInRound": 8,
+                            "team": {
+                                "id": 3,
+                                "name": "New York Rangers",
+                                "link": "/api/v1/teams/3"
+                            },
+                            "prospect": {
+                                "id": 68977,
+                                "fullName": "Lauri Pajuniemi",
+                                "link": "/api/v1/draft/prospects/68977"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 133,
+                            "pickInRound": 9,
+                            "team": {
+                                "id": 8,
+                                "name": "Montr\u00e9al Canadiens",
+                                "link": "/api/v1/teams/8"
+                            },
+                            "prospect": {
+                                "id": 72999,
+                                "fullName": "Samuel Houde",
+                                "link": "/api/v1/draft/prospects/72999"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 134,
+                            "pickInRound": 10,
+                            "team": {
+                                "id": 2,
+                                "name": "New York Islanders",
+                                "link": "/api/v1/teams/2"
+                            },
+                            "prospect": {
+                                "id": 67588,
+                                "fullName": "Blade Jenkins",
+                                "link": "/api/v1/draft/prospects/67588"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 135,
+                            "pickInRound": 11,
+                            "team": {
+                                "id": 54,
+                                "name": "Vegas Golden Knights",
+                                "link": "/api/v1/teams/54"
+                            },
+                            "prospect": {
+                                "id": 72528,
+                                "fullName": "Brandon Kruse",
+                                "link": "/api/v1/draft/prospects/72528"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 136,
+                            "pickInRound": 12,
+                            "team": {
+                                "id": 1,
+                                "name": "New Jersey Devils",
+                                "link": "/api/v1/teams/1"
+                            },
+                            "prospect": {
+                                "id": 75112,
+                                "fullName": "Akira Schmid",
+                                "link": "/api/v1/draft/prospects/75112"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 137,
+                            "pickInRound": 13,
+                            "team": {
+                                "id": 25,
+                                "name": "Dallas Stars",
+                                "link": "/api/v1/teams/25"
+                            },
+                            "prospect": {
+                                "id": 72822,
+                                "fullName": "Riley Damiani",
+                                "link": "/api/v1/draft/prospects/72822"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 138,
+                            "pickInRound": 14,
+                            "team": {
+                                "id": 19,
+                                "name": "St. Louis Blues",
+                                "link": "/api/v1/teams/19"
+                            },
+                            "prospect": {
+                                "id": 62167,
+                                "fullName": "Hugh Mcging",
+                                "link": "/api/v1/draft/prospects/62167"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 139,
+                            "pickInRound": 15,
+                            "team": {
+                                "id": 16,
+                                "name": "Chicago Blackhawks",
+                                "link": "/api/v1/teams/16"
+                            },
+                            "prospect": {
+                                "id": 69225,
+                                "fullName": "Mikael Hakkarainen",
+                                "link": "/api/v1/draft/prospects/69225"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 140,
+                            "pickInRound": 16,
+                            "team": {
+                                "id": 21,
+                                "name": "Colorado Avalanche",
+                                "link": "/api/v1/teams/21"
+                            },
+                            "prospect": {
+                                "id": 63546,
+                                "fullName": "Brandon Saigeon",
+                                "link": "/api/v1/draft/prospects/63546"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 141,
+                            "pickInRound": 17,
+                            "team": {
+                                "id": 1,
+                                "name": "New Jersey Devils",
+                                "link": "/api/v1/teams/1"
+                            },
+                            "prospect": {
+                                "id": 68029,
+                                "fullName": "Yegor Sharangovich",
+                                "link": "/api/v1/draft/prospects/68029"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 142,
+                            "pickInRound": 18,
+                            "team": {
+                                "id": 53,
+                                "name": "Arizona Coyotes",
+                                "link": "/api/v1/teams/53"
+                            },
+                            "prospect": {
+                                "id": 70838,
+                                "fullName": "Michael Callahan",
+                                "link": "/api/v1/draft/prospects/70838"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 143,
+                            "pickInRound": 19,
+                            "team": {
+                                "id": 4,
+                                "name": "Philadelphia Flyers",
+                                "link": "/api/v1/teams/4"
+                            },
+                            "prospect": {
+                                "id": 70890,
+                                "fullName": "Samuel Ersson",
+                                "link": "/api/v1/draft/prospects/70890"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 144,
+                            "pickInRound": 20,
+                            "team": {
+                                "id": 26,
+                                "name": "Los Angeles Kings",
+                                "link": "/api/v1/teams/26"
+                            },
+                            "prospect": {
+                                "id": 65259,
+                                "fullName": "David Hrenak",
+                                "link": "/api/v1/draft/prospects/65259"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 145,
+                            "pickInRound": 21,
+                            "team": {
+                                "id": 53,
+                                "name": "Arizona Coyotes",
+                                "link": "/api/v1/teams/53"
+                            },
+                            "prospect": {
+                                "id": 72816,
+                                "fullName": "Dennis Busby",
+                                "link": "/api/v1/draft/prospects/72816"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 146,
+                            "pickInRound": 22,
+                            "team": {
+                                "id": 21,
+                                "name": "Colorado Avalanche",
+                                "link": "/api/v1/teams/21"
+                            },
+                            "prospect": {
+                                "id": 74231,
+                                "fullName": "Danila Zhuravlyov",
+                                "link": "/api/v1/draft/prospects/74231"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 147,
+                            "pickInRound": 23,
+                            "team": {
+                                "id": 24,
+                                "name": "Anaheim Ducks",
+                                "link": "/api/v1/teams/24"
+                            },
+                            "prospect": {
+                                "id": 67569,
+                                "fullName": "Roman Durny",
+                                "link": "/api/v1/draft/prospects/67569"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 148,
+                            "pickInRound": 24,
+                            "team": {
+                                "id": 30,
+                                "name": "Minnesota Wild",
+                                "link": "/api/v1/teams/30"
+                            },
+                            "prospect": {
+                                "id": 72720,
+                                "fullName": "Simon Johansson",
+                                "link": "/api/v1/draft/prospects/72720"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 149,
+                            "pickInRound": 25,
+                            "team": {
+                                "id": 10,
+                                "name": "Toronto Maple Leafs",
+                                "link": "/api/v1/teams/10"
+                            },
+                            "prospect": {
+                                "id": 69020,
+                                "fullName": "Filip Kral",
+                                "link": "/api/v1/draft/prospects/69020"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 150,
+                            "pickInRound": 26,
+                            "team": {
+                                "id": 52,
+                                "name": "Winnipeg Jets",
+                                "link": "/api/v1/teams/52"
+                            },
+                            "prospect": {
+                                "id": 72817,
+                                "fullName": "Declan Chisholm",
+                                "link": "/api/v1/draft/prospects/72817"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 151,
+                            "pickInRound": 27,
+                            "team": {
+                                "id": 18,
+                                "name": "Nashville Predators",
+                                "link": "/api/v1/teams/18"
+                            },
+                            "prospect": {
+                                "id": 71932,
+                                "fullName": "Vladislav Yeryomenko",
+                                "link": "/api/v1/draft/prospects/71932"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 152,
+                            "pickInRound": 28,
+                            "team": {
+                                "id": 14,
+                                "name": "Tampa Bay Lightning",
+                                "link": "/api/v1/teams/14"
+                            },
+                            "prospect": {
+                                "id": 71127,
+                                "fullName": "Magnus Chrona",
+                                "link": "/api/v1/draft/prospects/71127"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 153,
+                            "pickInRound": 29,
+                            "team": {
+                                "id": 52,
+                                "name": "Winnipeg Jets",
+                                "link": "/api/v1/teams/52"
+                            },
+                            "prospect": {
+                                "id": 72809,
+                                "fullName": "Giovanni Vallati",
+                                "link": "/api/v1/draft/prospects/72809"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 154,
+                            "pickInRound": 30,
+                            "team": {
+                                "id": 54,
+                                "name": "Vegas Golden Knights",
+                                "link": "/api/v1/teams/54"
+                            },
+                            "prospect": {
+                                "id": 72814,
+                                "fullName": "Connor Corcoran",
+                                "link": "/api/v1/draft/prospects/72814"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "5",
+                            "pickOverall": 155,
+                            "pickInRound": 31,
+                            "team": {
+                                "id": 30,
+                                "name": "Minnesota Wild",
+                                "link": "/api/v1/teams/30"
+                            },
+                            "prospect": {
+                                "id": 72834,
+                                "fullName": "Damien Giroux",
+                                "link": "/api/v1/draft/prospects/72834"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roundNumber": 6,
+                    "round": "6",
+                    "picks": [
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 156,
+                            "pickInRound": 1,
+                            "team": {
+                                "id": 10,
+                                "name": "Toronto Maple Leafs",
+                                "link": "/api/v1/teams/10"
+                            },
+                            "prospect": {
+                                "id": 74577,
+                                "fullName": "Pontus Holmberg",
+                                "link": "/api/v1/draft/prospects/74577"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 157,
+                            "pickInRound": 2,
+                            "team": {
+                                "id": 9,
+                                "name": "Ottawa Senators",
+                                "link": "/api/v1/teams/9"
+                            },
+                            "prospect": {
+                                "id": 73004,
+                                "fullName": "Kevin Mandolese",
+                                "link": "/api/v1/draft/prospects/73004"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 158,
+                            "pickInRound": 3,
+                            "team": {
+                                "id": 53,
+                                "name": "Arizona Coyotes",
+                                "link": "/api/v1/teams/53"
+                            },
+                            "prospect": {
+                                "id": 64390,
+                                "fullName": "David Tendeck",
+                                "link": "/api/v1/draft/prospects/64390"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 159,
+                            "pickInRound": 4,
+                            "team": {
+                                "id": 29,
+                                "name": "Columbus Blue Jackets",
+                                "link": "/api/v1/teams/29"
+                            },
+                            "prospect": {
+                                "id": 72563,
+                                "fullName": "Tim Berni",
+                                "link": "/api/v1/draft/prospects/72563"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 160,
+                            "pickInRound": 5,
+                            "team": {
+                                "id": 17,
+                                "name": "Detroit Red Wings",
+                                "link": "/api/v1/teams/17"
+                            },
+                            "prospect": {
+                                "id": 66563,
+                                "fullName": "Victor Brattstrom",
+                                "link": "/api/v1/draft/prospects/66563"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 161,
+                            "pickInRound": 6,
+                            "team": {
+                                "id": 15,
+                                "name": "Washington Capitals",
+                                "link": "/api/v1/teams/15"
+                            },
+                            "prospect": {
+                                "id": 74951,
+                                "fullName": "Alex Kannok-Leipert",
+                                "link": "/api/v1/draft/prospects/74951"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 162,
+                            "pickInRound": 7,
+                            "team": {
+                                "id": 16,
+                                "name": "Chicago Blackhawks",
+                                "link": "/api/v1/teams/16"
+                            },
+                            "prospect": {
+                                "id": 73011,
+                                "fullName": "Alexis Gravel",
+                                "link": "/api/v1/draft/prospects/73011"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 163,
+                            "pickInRound": 8,
+                            "team": {
+                                "id": 3,
+                                "name": "New York Rangers",
+                                "link": "/api/v1/teams/3"
+                            },
+                            "prospect": {
+                                "id": 74878,
+                                "fullName": "Simon Kjellberg",
+                                "link": "/api/v1/draft/prospects/74878"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 164,
+                            "pickInRound": 9,
+                            "team": {
+                                "id": 22,
+                                "name": "Edmonton Oilers",
+                                "link": "/api/v1/teams/22"
+                            },
+                            "prospect": {
+                                "id": 75795,
+                                "fullName": "Michael Kesselring",
+                                "link": "/api/v1/draft/prospects/75795"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 165,
+                            "pickInRound": 10,
+                            "team": {
+                                "id": 26,
+                                "name": "Los Angeles Kings",
+                                "link": "/api/v1/teams/26"
+                            },
+                            "prospect": {
+                                "id": 71508,
+                                "fullName": "Johan Sodergran",
+                                "link": "/api/v1/draft/prospects/71508"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 166,
+                            "pickInRound": 11,
+                            "team": {
+                                "id": 12,
+                                "name": "Carolina Hurricanes",
+                                "link": "/api/v1/teams/12"
+                            },
+                            "prospect": {
+                                "id": 68005,
+                                "fullName": "Jesper Sellgren",
+                                "link": "/api/v1/draft/prospects/68005"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 167,
+                            "pickInRound": 12,
+                            "team": {
+                                "id": 20,
+                                "name": "Calgary Flames",
+                                "link": "/api/v1/teams/20"
+                            },
+                            "prospect": {
+                                "id": 63813,
+                                "fullName": "Mathias Emilio Pettersen",
+                                "link": "/api/v1/draft/prospects/63813"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 168,
+                            "pickInRound": 13,
+                            "team": {
+                                "id": 25,
+                                "name": "Dallas Stars",
+                                "link": "/api/v1/teams/25"
+                            },
+                            "prospect": {
+                                "id": 68512,
+                                "fullName": "Dawson Barteaux",
+                                "link": "/api/v1/draft/prospects/68512"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 169,
+                            "pickInRound": 14,
+                            "team": {
+                                "id": 19,
+                                "name": "St. Louis Blues",
+                                "link": "/api/v1/teams/19"
+                            },
+                            "prospect": {
+                                "id": 72998,
+                                "fullName": "Mathias Laferriere",
+                                "link": "/api/v1/draft/prospects/72998"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 170,
+                            "pickInRound": 15,
+                            "team": {
+                                "id": 13,
+                                "name": "Florida Panthers",
+                                "link": "/api/v1/teams/13"
+                            },
+                            "prospect": {
+                                "id": 76311,
+                                "fullName": "Justin Schutz",
+                                "link": "/api/v1/draft/prospects/76311"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 171,
+                            "pickInRound": 16,
+                            "team": {
+                                "id": 21,
+                                "name": "Colorado Avalanche",
+                                "link": "/api/v1/teams/21"
+                            },
+                            "prospect": {
+                                "id": 69098,
+                                "fullName": "Nikolai Kovalenko",
+                                "link": "/api/v1/draft/prospects/69098"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 172,
+                            "pickInRound": 17,
+                            "team": {
+                                "id": 1,
+                                "name": "New Jersey Devils",
+                                "link": "/api/v1/teams/1"
+                            },
+                            "prospect": {
+                                "id": 72845,
+                                "fullName": "Mitchell Hoelscher",
+                                "link": "/api/v1/draft/prospects/72845"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 173,
+                            "pickInRound": 18,
+                            "team": {
+                                "id": 29,
+                                "name": "Columbus Blue Jackets",
+                                "link": "/api/v1/teams/29"
+                            },
+                            "prospect": {
+                                "id": 57447,
+                                "fullName": "Veini Vehvilainen",
+                                "link": "/api/v1/draft/prospects/57447"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 174,
+                            "pickInRound": 19,
+                            "team": {
+                                "id": 4,
+                                "name": "Philadelphia Flyers",
+                                "link": "/api/v1/teams/4"
+                            },
+                            "prospect": {
+                                "id": 68906,
+                                "fullName": "Gavin Hain",
+                                "link": "/api/v1/draft/prospects/68906"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 175,
+                            "pickInRound": 20,
+                            "team": {
+                                "id": 26,
+                                "name": "Los Angeles Kings",
+                                "link": "/api/v1/teams/26"
+                            },
+                            "prospect": {
+                                "id": 72819,
+                                "fullName": "Jacob Ingham",
+                                "link": "/api/v1/draft/prospects/72819"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 176,
+                            "pickInRound": 21,
+                            "team": {
+                                "id": 28,
+                                "name": "San Jose Sharks",
+                                "link": "/api/v1/teams/28"
+                            },
+                            "prospect": {
+                                "id": 73044,
+                                "fullName": "Zachary Emond",
+                                "link": "/api/v1/draft/prospects/73044"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 177,
+                            "pickInRound": 22,
+                            "team": {
+                                "id": 5,
+                                "name": "Pittsburgh Penguins",
+                                "link": "/api/v1/teams/5"
+                            },
+                            "prospect": {
+                                "id": 75722,
+                                "fullName": "Liam Gorman",
+                                "link": "/api/v1/draft/prospects/75722"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 178,
+                            "pickInRound": 23,
+                            "team": {
+                                "id": 24,
+                                "name": "Anaheim Ducks",
+                                "link": "/api/v1/teams/24"
+                            },
+                            "prospect": {
+                                "id": 73911,
+                                "fullName": "Hunter Drew",
+                                "link": "/api/v1/draft/prospects/73911"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 179,
+                            "pickInRound": 24,
+                            "team": {
+                                "id": 30,
+                                "name": "Minnesota Wild",
+                                "link": "/api/v1/teams/30"
+                            },
+                            "prospect": {
+                                "id": 68674,
+                                "fullName": "Shawn Boudrias",
+                                "link": "/api/v1/draft/prospects/68674"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 180,
+                            "pickInRound": 25,
+                            "team": {
+                                "id": 54,
+                                "name": "Vegas Golden Knights",
+                                "link": "/api/v1/teams/54"
+                            },
+                            "prospect": {
+                                "id": 69202,
+                                "fullName": "Peter Diliberatore",
+                                "link": "/api/v1/draft/prospects/69202"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 181,
+                            "pickInRound": 26,
+                            "team": {
+                                "id": 6,
+                                "name": "Boston Bruins",
+                                "link": "/api/v1/teams/6"
+                            },
+                            "prospect": {
+                                "id": 73406,
+                                "fullName": "Dustyn Mcfaul",
+                                "link": "/api/v1/draft/prospects/73406"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 182,
+                            "pickInRound": 27,
+                            "team": {
+                                "id": 28,
+                                "name": "San Jose Sharks",
+                                "link": "/api/v1/teams/28"
+                            },
+                            "prospect": {
+                                "id": 62392,
+                                "fullName": "John Leonard",
+                                "link": "/api/v1/draft/prospects/62392"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 183,
+                            "pickInRound": 28,
+                            "team": {
+                                "id": 14,
+                                "name": "Tampa Bay Lightning",
+                                "link": "/api/v1/teams/14"
+                            },
+                            "prospect": {
+                                "id": 63381,
+                                "fullName": "Cole Koepke",
+                                "link": "/api/v1/draft/prospects/63381"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 184,
+                            "pickInRound": 29,
+                            "team": {
+                                "id": 52,
+                                "name": "Winnipeg Jets",
+                                "link": "/api/v1/teams/52"
+                            },
+                            "prospect": {
+                                "id": 73192,
+                                "fullName": "Jared Moe",
+                                "link": "/api/v1/draft/prospects/73192"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 185,
+                            "pickInRound": 30,
+                            "team": {
+                                "id": 54,
+                                "name": "Vegas Golden Knights",
+                                "link": "/api/v1/teams/54"
+                            },
+                            "prospect": {
+                                "id": 72996,
+                                "fullName": "Xavier Bouchard",
+                                "link": "/api/v1/draft/prospects/72996"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "6",
+                            "pickOverall": 186,
+                            "pickInRound": 31,
+                            "team": {
+                                "id": 23,
+                                "name": "Vancouver Canucks",
+                                "link": "/api/v1/teams/23"
+                            },
+                            "prospect": {
+                                "id": 66226,
+                                "fullName": "Artyom Manukyan",
+                                "link": "/api/v1/draft/prospects/66226"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roundNumber": 7,
+                    "round": "7",
+                    "picks": [
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 187,
+                            "pickInRound": 1,
+                            "team": {
+                                "id": 7,
+                                "name": "Buffalo Sabres",
+                                "link": "/api/v1/teams/7"
+                            },
+                            "prospect": {
+                                "id": 76783,
+                                "fullName": "William Worge Kreu",
+                                "link": "/api/v1/draft/prospects/76783"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 188,
+                            "pickInRound": 2,
+                            "team": {
+                                "id": 9,
+                                "name": "Ottawa Senators",
+                                "link": "/api/v1/teams/9"
+                            },
+                            "prospect": {
+                                "id": 71958,
+                                "fullName": "Jakov Novak",
+                                "link": "/api/v1/draft/prospects/71958"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 189,
+                            "pickInRound": 3,
+                            "team": {
+                                "id": 53,
+                                "name": "Arizona Coyotes",
+                                "link": "/api/v1/teams/53"
+                            },
+                            "prospect": {
+                                "id": 76045,
+                                "fullName": "Liam Kirk",
+                                "link": "/api/v1/draft/prospects/76045"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 190,
+                            "pickInRound": 4,
+                            "team": {
+                                "id": 8,
+                                "name": "Montr\u00e9al Canadiens",
+                                "link": "/api/v1/teams/8"
+                            },
+                            "prospect": {
+                                "id": 64545,
+                                "fullName": "Brett Stapley",
+                                "link": "/api/v1/draft/prospects/64545"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 191,
+                            "pickInRound": 5,
+                            "team": {
+                                "id": 17,
+                                "name": "Detroit Red Wings",
+                                "link": "/api/v1/teams/17"
+                            },
+                            "prospect": {
+                                "id": 73450,
+                                "fullName": "Otto Kivenmaki",
+                                "link": "/api/v1/draft/prospects/73450"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 192,
+                            "pickInRound": 6,
+                            "team": {
+                                "id": 23,
+                                "name": "Vancouver Canucks",
+                                "link": "/api/v1/teams/23"
+                            },
+                            "prospect": {
+                                "id": 80901,
+                                "fullName": "Matthew Thiessen",
+                                "link": "/api/v1/draft/prospects/80901"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 193,
+                            "pickInRound": 7,
+                            "team": {
+                                "id": 16,
+                                "name": "Chicago Blackhawks",
+                                "link": "/api/v1/teams/16"
+                            },
+                            "prospect": {
+                                "id": 73444,
+                                "fullName": "Josiah Slavin",
+                                "link": "/api/v1/draft/prospects/73444"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 194,
+                            "pickInRound": 8,
+                            "team": {
+                                "id": 9,
+                                "name": "Ottawa Senators",
+                                "link": "/api/v1/teams/9"
+                            },
+                            "prospect": {
+                                "id": 76312,
+                                "fullName": "Luke Loheit",
+                                "link": "/api/v1/draft/prospects/76312"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 195,
+                            "pickInRound": 9,
+                            "team": {
+                                "id": 22,
+                                "name": "Edmonton Oilers",
+                                "link": "/api/v1/teams/22"
+                            },
+                            "prospect": {
+                                "id": 76357,
+                                "fullName": "Patrik Siikanen",
+                                "link": "/api/v1/draft/prospects/76357"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 196,
+                            "pickInRound": 10,
+                            "team": {
+                                "id": 2,
+                                "name": "New York Islanders",
+                                "link": "/api/v1/teams/2"
+                            },
+                            "prospect": {
+                                "id": 71894,
+                                "fullName": "Christian Krygier",
+                                "link": "/api/v1/draft/prospects/71894"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 197,
+                            "pickInRound": 11,
+                            "team": {
+                                "id": 12,
+                                "name": "Carolina Hurricanes",
+                                "link": "/api/v1/teams/12"
+                            },
+                            "prospect": {
+                                "id": 72514,
+                                "fullName": "Jacob Kucharski",
+                                "link": "/api/v1/draft/prospects/72514"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 198,
+                            "pickInRound": 12,
+                            "team": {
+                                "id": 20,
+                                "name": "Calgary Flames",
+                                "link": "/api/v1/teams/20"
+                            },
+                            "prospect": {
+                                "id": 76161,
+                                "fullName": "Dmitry Zavgorodniy",
+                                "link": "/api/v1/draft/prospects/76161"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 199,
+                            "pickInRound": 13,
+                            "team": {
+                                "id": 25,
+                                "name": "Dallas Stars",
+                                "link": "/api/v1/teams/25"
+                            },
+                            "prospect": {
+                                "id": 62697,
+                                "fullName": "Jermaine Loewen",
+                                "link": "/api/v1/draft/prospects/62697"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 200,
+                            "pickInRound": 14,
+                            "team": {
+                                "id": 19,
+                                "name": "St. Louis Blues",
+                                "link": "/api/v1/teams/19"
+                            },
+                            "prospect": {
+                                "id": 72808,
+                                "fullName": "Tyler Tucker",
+                                "link": "/api/v1/draft/prospects/72808"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 201,
+                            "pickInRound": 15,
+                            "team": {
+                                "id": 13,
+                                "name": "Florida Panthers",
+                                "link": "/api/v1/teams/13"
+                            },
+                            "prospect": {
+                                "id": 74121,
+                                "fullName": "Cole Krygier",
+                                "link": "/api/v1/draft/prospects/74121"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 202,
+                            "pickInRound": 16,
+                            "team": {
+                                "id": 21,
+                                "name": "Colorado Avalanche",
+                                "link": "/api/v1/teams/21"
+                            },
+                            "prospect": {
+                                "id": 73741,
+                                "fullName": "Shamil Shmakov",
+                                "link": "/api/v1/draft/prospects/73741"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 203,
+                            "pickInRound": 17,
+                            "team": {
+                                "id": 1,
+                                "name": "New Jersey Devils",
+                                "link": "/api/v1/teams/1"
+                            },
+                            "prospect": {
+                                "id": 76018,
+                                "fullName": "Eetu Pakkila",
+                                "link": "/api/v1/draft/prospects/76018"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 204,
+                            "pickInRound": 18,
+                            "team": {
+                                "id": 29,
+                                "name": "Columbus Blue Jackets",
+                                "link": "/api/v1/teams/29"
+                            },
+                            "prospect": {
+                                "id": 71096,
+                                "fullName": "Trey Fix-Wolansky",
+                                "link": "/api/v1/draft/prospects/71096"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 205,
+                            "pickInRound": 19,
+                            "team": {
+                                "id": 4,
+                                "name": "Philadelphia Flyers",
+                                "link": "/api/v1/teams/4"
+                            },
+                            "prospect": {
+                                "id": 73062,
+                                "fullName": "Marcus Westfalt",
+                                "link": "/api/v1/draft/prospects/73062"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 206,
+                            "pickInRound": 20,
+                            "team": {
+                                "id": 14,
+                                "name": "Tampa Bay Lightning",
+                                "link": "/api/v1/teams/14"
+                            },
+                            "prospect": {
+                                "id": 69025,
+                                "fullName": "Radim Salda",
+                                "link": "/api/v1/draft/prospects/69025"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 207,
+                            "pickInRound": 21,
+                            "team": {
+                                "id": 13,
+                                "name": "Florida Panthers",
+                                "link": "/api/v1/teams/13"
+                            },
+                            "prospect": {
+                                "id": 75957,
+                                "fullName": "Santtu Kinnunen",
+                                "link": "/api/v1/draft/prospects/75957"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 208,
+                            "pickInRound": 22,
+                            "team": {
+                                "id": 54,
+                                "name": "Vegas Golden Knights",
+                                "link": "/api/v1/teams/54"
+                            },
+                            "prospect": {
+                                "id": 75327,
+                                "fullName": "Jordan Kooy",
+                                "link": "/api/v1/draft/prospects/75327"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 209,
+                            "pickInRound": 23,
+                            "team": {
+                                "id": 10,
+                                "name": "Toronto Maple Leafs",
+                                "link": "/api/v1/teams/10"
+                            },
+                            "prospect": {
+                                "id": 68684,
+                                "fullName": "Zachary Bouthillier",
+                                "link": "/api/v1/draft/prospects/68684"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 210,
+                            "pickInRound": 24,
+                            "team": {
+                                "id": 30,
+                                "name": "Minnesota Wild",
+                                "link": "/api/v1/teams/30"
+                            },
+                            "prospect": {
+                                "id": 80230,
+                                "fullName": "Sam Hentges",
+                                "link": "/api/v1/draft/prospects/80230"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 211,
+                            "pickInRound": 25,
+                            "team": {
+                                "id": 10,
+                                "name": "Toronto Maple Leafs",
+                                "link": "/api/v1/teams/10"
+                            },
+                            "prospect": {
+                                "id": 74235,
+                                "fullName": "Semyon Kizimov",
+                                "link": "/api/v1/draft/prospects/74235"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 212,
+                            "pickInRound": 26,
+                            "team": {
+                                "id": 6,
+                                "name": "Boston Bruins",
+                                "link": "/api/v1/teams/6"
+                            },
+                            "prospect": {
+                                "id": 72443,
+                                "fullName": "Pavel Shen",
+                                "link": "/api/v1/draft/prospects/72443"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 213,
+                            "pickInRound": 27,
+                            "team": {
+                                "id": 18,
+                                "name": "Nashville Predators",
+                                "link": "/api/v1/teams/18"
+                            },
+                            "prospect": {
+                                "id": 67251,
+                                "fullName": "Milan Kloucek",
+                                "link": "/api/v1/draft/prospects/67251"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 214,
+                            "pickInRound": 28,
+                            "team": {
+                                "id": 14,
+                                "name": "Tampa Bay Lightning",
+                                "link": "/api/v1/teams/14"
+                            },
+                            "prospect": {
+                                "id": 74767,
+                                "fullName": "Ty Taylor",
+                                "link": "/api/v1/draft/prospects/74767"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 215,
+                            "pickInRound": 29,
+                            "team": {
+                                "id": 52,
+                                "name": "Winnipeg Jets",
+                                "link": "/api/v1/teams/52"
+                            },
+                            "prospect": {
+                                "id": 58729,
+                                "fullName": "Austin Wong",
+                                "link": "/api/v1/draft/prospects/58729"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 216,
+                            "pickInRound": 30,
+                            "team": {
+                                "id": 3,
+                                "name": "New York Rangers",
+                                "link": "/api/v1/teams/3"
+                            },
+                            "prospect": {
+                                "id": 77199,
+                                "fullName": "Riley Hughes",
+                                "link": "/api/v1/draft/prospects/77199"
+                            }
+                        },
+                        {
+                            "year": 2018,
+                            "round": "7",
+                            "pickOverall": 217,
+                            "pickInRound": 31,
+                            "team": {
+                                "id": 15,
+                                "name": "Washington Capitals",
+                                "link": "/api/v1/teams/15"
+                            },
+                            "prospect": {
+                                "id": 68511,
+                                "fullName": "Eric Florchuk",
+                                "link": "/api/v1/draft/prospects/68511"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

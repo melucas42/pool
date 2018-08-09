@@ -1,0 +1,37 @@
+{
+    "copyright": "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. \u00a9 NHL 2018. All Rights Reserved.",
+    "people": [
+        {
+            "id": 8475222,
+            "fullName": "Sami Vatanen",
+            "link": "/api/v1/people/8475222",
+            "firstName": "Sami",
+            "lastName": "Vatanen",
+            "primaryNumber": "45",
+            "birthDate": "1991-06-03",
+            "currentAge": 27,
+            "birthCity": "Jyv\u00e4skyl\u00e4",
+            "birthCountry": "FIN",
+            "nationality": "FIN",
+            "height": "5' 10\"",
+            "weight": 185,
+            "active": true,
+            "alternateCaptain": false,
+            "captain": false,
+            "rookie": false,
+            "shootsCatches": "R",
+            "rosterStatus": "Y",
+            "currentTeam": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+            },
+            "primaryPosition": {
+                "code": "D",
+                "name": "Defenseman",
+                "type": "Defenseman",
+                "abbreviation": "D"
+            }
+        }
+    ]
+}
