@@ -1,21 +1,24 @@
-import requests
-import json
-from collections import namedtuple
 from player import Player
-from teams import Teams
+from player import Players
+from teamroster import TeamRoster
+from draft import Draft
+from team import Teams
 
-playerList = []
 minYear = 2013
 maxYear = 2017
 
-for currentYear in range(minYear, maxYear):
-    season = str(currentYear) + "" + str(currentYear + 1)
-    print("Getting rosters for year", season)
-
+playerList = Players()
+teamRoster = TeamRoster()
+draftPick = Draft()
 teams = Teams()
 
-myTeam = teams.getTeamFromId(4)
+for currentYear in range(maxYear, minYear, -1):
+    season = str(currentYear) + "" + str(currentYear + 1)
+    print("Getting rosters for year", season)
+    teamRoster.getTeamRoster(season, playerList)
+    draftPick.getDraftPlayers(currentYear, teams, playerList)
 
-print(myTeam.name)
-
-
+playerListFile = "C:\\playerList.txt"
+open(playerListFile, 'w').close()
+playerList.writePlayerList(playerListFile)
+print("Done")
