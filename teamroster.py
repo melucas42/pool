@@ -7,6 +7,7 @@ from player import Players
 class TeamRoster(object):
 
     def getTeamRoster(self, year, playerList):
+        print("Getting rosters for year", year)
         self.players = playerList
         # https://statsapi.web.nhl.com/api/v1/teams?expand=team.roster&season=20142015
         url = "https://statsapi.web.nhl.com/api/v1/teams?expand=team.roster&season=" + year

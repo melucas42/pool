@@ -19,20 +19,13 @@ class Draft(object):
             for pick in round['picks']:
                 try:
                     id = pick['prospect']['id']
-                except:
-                    id = "0"
-
-                isProspect = True
-                player = Player(id, isProspect)
-                team = teams.getTeamFromName(pick['team']['name'])
-
-                if team is None:
-                    if(pick['team']['name'] == "Phoenix Coyotes"):
-                        player.team = "ARI"
-                else:
+                    player = Player(id, True)
+                    team = teams.getTeamFromName(pick['team']['name'])
                     player.team = team.abbreviation
 
-                if id == "0":
+                except:
+                    id = "0"
+                    player = Player(id, True)
                     player.fullName = pick['prospect']['fullName']
 
                 playerList.add(player)

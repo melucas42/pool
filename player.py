@@ -10,16 +10,12 @@ class Players(object):
     nextId = 1
 
     def add(self, player):
-        #find(lambda person: person.name == 'Fred', peeps)
         existingPlayer = list(filter(lambda p: p.fullName ==
                                      player.fullName and p.birthDate == player.birthDate, self.playerList))
         if len(existingPlayer) == 0:
             player.draftId = self.nextId
             self.nextId += 1
             self.playerList.append(player)
-            #print("Added player {}", player.fullName)
-        # else:
-            #print('already in list')
 
     def writePlayerList(self, path):
         for player in self.playerList:
@@ -38,6 +34,7 @@ class Player(object):
     age = 0
     position = "N/A"
     team = "N/A"
+    isProspect = False
 
     def __init__(self, id, isProspect=False):
 
@@ -58,6 +55,7 @@ class Player(object):
         self.birthDate = player['birthDate']
         self.age = self.getAgeAtDraft(player['birthDate'], "2018-09-23")
         self.position = player['primaryPosition']['type']
+        self.isProspect = True
 
     def setPlayerDetail(self, id):
         # url sample : https://statsapi.web.nhl.com//api/v1/people/8470619
