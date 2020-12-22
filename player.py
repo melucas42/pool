@@ -10,14 +10,16 @@ class Players(object):
     nextId = 1
 
     def add(self, player):
-        existingPlayer = list(filter(lambda p: p.fullName ==
-                                     player.fullName and p.birthDate == player.birthDate, self.playerList))
+        existingPlayer = list(filter(lambda p: p.fullName.lower() ==
+                                     player.fullName.lower() and p.birthDate == player.birthDate, self.playerList))
         if len(existingPlayer) == 0:
             player.draftId = self.nextId
             self.nextId += 1
             self.playerList.append(player)
 
     def writePlayerList(self, path):
+        self.playerList.sort(key=lambda p:p.fullName)
+        #ut.sort(key=lambda x: x.count, reverse=True)
         for player in self.playerList:
             playerInfo = str(player.draftId) + "\t" + player.fullName + "\t" + \
                 player.team + "\t" + player.position + \

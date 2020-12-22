@@ -23,8 +23,11 @@ class Teams(object):
         for d in data['teams']:
             team = Team(d['id'], d['name'], d['abbreviation'])
             self.teamList.append(team)
-        self.append(0, "Phoenix Coyotes", "ARI")
-        self.append(0, "Atlanta Thrashers", "ATL")
+        
+        arizona = Team(0, "Phoenix Coyotes", "ARI")
+        atlanta = Team(0, "Atlanta Thrashers", "ATL")
+        self.teamList.append(arizona)
+        self.teamList.append(atlanta)
 
     def getTeamFromName(self, name):
         return next((x for x in self.teamList if x.name == name), None)
