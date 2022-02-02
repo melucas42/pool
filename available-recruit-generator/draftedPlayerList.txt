@@ -1,0 +1,829 @@
+Kris Letang
+Jeff Petry
+Brent Burns
+P.K. Subban
+Ryan Suter
+Brad Marchand
+Nicklas Backstrom
+Max Pacioretty
+David Perron
+Steven Stamkos
+Patrice Bergeron
+Evgeni Malkin
+Claude Giroux
+Johnny Gaudreau
+Jordan Binnington
+
+
+
+Tye Felhaber
+Joey Anderson
+Matthew Phillips
+
+
+Albin Eriksson
+dmitry zavgorodniy
+jack studnicka
+semyon der-arguchintsev
+Max Gildon
+Egor Zamula
+Joey Keane
+Alex Ovechkin
+Andrei Vasilevskiy
+Anthony Beauvillier
+Anthony Cirelli
+Bryan Rust
+Charlie McAvoy
+John Carlson
+Matt Duchene
+Oliver Bjorkstrand
+Tyson Barrie
+Matt Grzelcyk
+Adrian Kempe
+Connor Brown
+Nikita Kucherov
+Blake Coleman
+
+
+
+
+
+
+
+
+Benoit-Olivier Groulx
+Josh Brook
+Robert Mastrosimone
+Sam Poulin
+Tobias Bjornfot
+Jake Sanderson
+Kaiden Guhle
+John Beecher
+Adam Beckman
+Jack Dugan
+Ryan O'Rourke
+Jan Mysak
+Albert Johansson
+Mike Hoffman
+Paul Stastny
+Jakub Vrana
+Jeff Skinner
+Nico Hischier
+Mikko Rantanen
+Ryan Strome
+Joel Eriksson Ek
+Nazem Kadri
+Nick Schmaltz
+Will Butcher
+TJ Brodie
+Aaron Ekblad
+Colin Miller
+John Gibson
+Tim Stützle
+Joel Farabee
+
+Taylor Raddysh
+
+
+
+
+Dawson Mercer
+J-J Peterka
+Topi Niemela
+John Farinacci
+Pavel Gogolev
+Alex Cotton
+Alexander Khovanov
+Ethan Bear
+Caleb Jones
+Urho Vaakanainen
+Jesper Boqvist
+Ryan Poehling
+Filip Westerlund
+Isaac Ratcliffe
+Dante Fabbro
+Adam Boqvist
+Joe Veleno
+Barrett Hayton
+Ryan Merkley
+Dominik Bokk
+Kody Clark
+Ryan Mcleod
+Jett Woo
+Kirby dach
+alex newhook
+Cam york
+spencer knight
+simon holmstrom
+jakob pelletier
+nils hoglander
+Sebastian Aho
+Jaden Schwartz
+T.J. Oshie
+Brock Nelson
+James Van Riemsdyk
+Robert Thomas
+kirill kaprizov
+Evander Kane
+Conor Garland
+Dougie Hamilton
+Matt Dumba
+Josh Morrissey
+Quinn Hughes
+Jonathan Toews
+Thatcher Demko
+Ilya Samsonov
+
+
+Trent Frederic
+
+
+
+
+Andrew Peeke
+Shane Bowers
+Jacob Larsson
+Isac Lundestrom
+Rasmus Sandin
+Jack Drury
+Libor Hajek
+Ruslan Iskhakov
+peyton krebs
+nolan foote
+lassi thomson
+trey fix-wolansky
+Jamieson rees
+Erik Brannstrom
+arthur kaliyev
+alex turcotte
+Jeremy Lauzon
+Quinton Byfield
+Lukas Reichel
+Yegor Chinakhov
+Tristen Robins
+Artemi Kniazev
+Vili Saarijarvi
+Kirill Marchenko
+Connor Mcmichael
+Matt Murray
+Artemi Panarin
+Evgenii Dadonov
+Brock Boeser
+Nikolaj Ehlers
+Jared McCann
+alex iafallo
+brett pesce
+Alex Goligoski
+Rasmus Ristolainen
+Roope Hintz
+Jason Zucker
+Ryan Graves
+Nate Schmidt
+J.T. Compher
+
+
+
+William Bitten
+Logan Brown
+joachim blichfeld
+
+
+Noah Dobson
+Jaret Anderson-Dolan
+ville heinola
+kaedan korczak
+kyle capobianco
+Tyson Foerster
+Jake Neighbours
+Ozzy Wiesblatt
+Roby Jarventie
+Emil Andrae
+Henri Jokiharju
+Noel Gunler
+John Tavares
+Ryan O'reilly
+Mika Zibanejad
+Aleksander Barkov
+J.T. Miller
+William Karlsson
+Alex Pietrangelo
+Ryan Pulock
+Clayton Keller
+Blake Wheeler
+Shayne Gostisbehere
+Tristan Jarry
+Mark Giordano
+Logan Couture
+Justin Schultz
+Jason Robertson
+Max Comtois
+
+otto koivula
+eetu luostarinen
+
+
+
+Seth Jarvis
+Iaroslav Askarov
+Ty Dellandrea
+Alex Beaucage
+Alex Formenton
+philipp kurashev
+gabriel fortier
+Eeli Tolvanen
+Grigori Denisenko
+Mavrik Bourque
+Kasper Simontaival
+Ivan Morozov
+Gabriel Vilardi
+Juuso Valimaki
+Thomas Chabot
+Seth Jones
+Filip Hronek
+Ivan Provorov
+Adam Fox
+Brayden Schenn
+Leon Draisaitl
+Matthew Tkachuk
+Tyler Bertuzzi
+Alex DeBrincat
+Tomas Hertl
+Andrew Mangiapane
+Tyler Seguin
+Alexander Radulov
+Vincent Trocheck
+Drake Batherson
+
+
+Kieffer Bellows
+
+
+
+
+Victor Berglund
+Nicolas Beaudin
+Frederic Allard
+joseph duszak
+maxime lajoie
+Jesperi Kotkaniemi
+Anton Lundell
+Kailer Yamamoto
+philip tomasino
+justin almeida
+emil bemstrom
+Thomas Bordeleau
+Alexander Campbell
+Elliot Desnoyers
+Sean Monahan
+Ryan Ellis
+Dylan Larkin
+Anthony Mantha
+Shea Theodore
+Jake Guentzel
+Andre Burakovsky
+Jaccob Slavin
+Tomas Tatar
+Cale Makar
+Pius Suter
+Joel Kiviranta
+Philipp Grubauer
+Daniel Sprong
+Ilya Sorokin
+Jordan Kyrou
+Yegor Sharangovich
+
+Michael McLeod
+Cliff Pu
+Dillon Dube
+John Leonard
+
+Olli Juolevi
+Dennis Cholowski
+Owen Tippett
+Tyler Parsons
+Filip Zadina
+Ivan Chekhovich
+Josh Anderson 2
+Parker Wotherspoon
+kaapo kakko
+alexandre texier
+Braden Schneider
+Marco Rossi
+Ukko-Pekka Luukkonen
+Torey Krug
+Elias Lindholm
+Sergei Bobrovsky
+David Pastrnak
+Samuel Girard
+Gabriel Landeskog
+Tyler Toffoli
+Jakub Voracek
+Jacob Markstrom
+Joe Pavelski
+Kyle Connor
+Taylor Hall
+Oliver Ekman-Larsson
+Nick Leddy
+Egor Sokolov
+Marat Khusnutdinov
+Helge Grans
+Roni Hirvonen
+Nikita Alexandrov
+Jack Finley
+Noah Hanifin
+Jakub Zboril
+Kole Lind
+Gustav Lindstrom
+Jacob Bernard-Docker
+Alexander Alexeyev
+Serron Noel
+Mattias Samuelsson
+Sean Durzi
+Shane Pinto
+Egor Afanasyev
+Jared Spurgeon
+John Marino
+MacKenzie Weegar
+Kevin Hayes
+Jonathan Marchessault
+Anthony Duclair
+Kevin Fiala
+Nino Niederreiter
+Dominik Kubalik
+Zach Hyman
+Pavel Buchnevich
+Denis Gurianov
+Nick Suzuki
+Mats Zuccarello
+Juuse Saros
+Ty Smith
+
+
+Axel Jonsson-Fjallby
+Alex Nylander
+Sam Steel
+
+
+Evan Bouchard
+Jacob Olofsson
+Calen Addison
+Gabriel Carlsson
+Cole caufield
+ryan suzuki
+raphael lavoie
+brett leason
+pyotr kochetkov
+Klim Kostin
+Alexis Lafrenière
+Hendrix Lapierre
+Daniel Torgersson
+Mikey Anderson
+Jonathan Huberdeau
+Brayden Point
+Mathew Barzal
+William Nylander
+Victor Hedman
+victor olofsson
+Filip Forsberg
+Zach Werenski
+Travis Konecny
+Jonathan Drouin
+Drew Doughty
+Alec Martinez
+Anze Kopitar
+Frederik Andersen
+Mark Stone
+
+
+
+Tyler Benson
+
+
+
+
+Jeremy Roy
+Oliver Kylington
+David Farrance
+Kristian Vesalainen
+Markus Phillips
+Jake Oettinger
+Lucas Elvenes
+Jesse Ylonen
+Bode Wilde
+philippe myers
+ian mitchell
+mathias emilio pettersen
+Sam Colangelo
+Lukas Cormier
+Vasiliy Ponomarev
+Patrik Laine
+Anders Lee
+Dylan Strome
+Viktor Arvidsson
+Mikhail Sergachev
+Dmitry Orlov
+Vladimir Tarasenko
+Igor Shesterkin
+Vince Dunn
+Sam Reinhart
+Brady Tkachuk
+Ryan Johansen
+Kevin Shattenkirk
+Duncan Keith
+Justin Faulk
+jack hughes
+
+
+
+
+
+
+
+Trevor Zegras
+Vitali Kravtsov
+Vasily Podkolzin
+Lucas Raymond
+Theodor Niederbach
+Martin Kaut
+Fabian Zetterlund
+Chad Krys
+Josh Mahura
+ryan johnson 2
+mattias norlinder
+Zion Nybeck
+Jack Quinn
+Brayden Tracey
+Nicolas Hague
+bobby brink
+samuel fagemo
+Brendan Brisson
+Cody Glass
+Brendan Gallagher
+Ryan McDonagh
+Cam Atkinson
+Tom Wilson
+Phillip Danault
+Pierre-Luc Dubois
+Alex Tuch
+Yanni Gourde
+Pavel Zacha
+Rasmus Dahlin
+Jack Eichel
+Teuvo Teravainen
+Roman Josi
+Carey Price
+Ryan Murray
+Rasmus Andersson
+Josh Norris
+Jesper Bratt
+Jesse Puljujarvi
+Nolan Patrick
+
+
+
+Travis Dermott
+Cal Foote
+Pierre-Olivier Joseph
+Morgan Frost
+Liam Foudy
+Alexander Romanov
+Filip Johansson
+moritz seider
+Philip Broberg
+victor soderstrom
+scott perunovich
+antti tuomisto
+alex vlasic
+vladislav firstov
+jackson lacombe
+Jamie Drysdale
+Shakir Mukhamadullin
+Dylan Holloway
+William Wallinder
+Yan Kuznetsov
+josh anderson
+Christian Dvorak
+devon toews
+Chandler Stephenson
+tony Deangelo
+Bo Horvat
+Jake Muzzin
+Jamie Benn
+robin lehner
+Erik Cernak
+
+
+Max Jones
+Brett Howden
+Janne Kuokkanen
+Boris Katchouk
+Tyson Jost
+Filip Chytil
+Kale Clague
+Victor Mete
+Jay O'Brien
+Jared Mcisaac
+Brandon Carlo
+Aleksi Heponiemi
+Matt Boldy
+thomas harley
+tyler madden
+nicholas robertson
+dmitri samorukov
+oskari laaksonen
+samuel walker
+cale fleury
+jayden struble
+nathan legare
+Oliver Wahlstrom
+bowen byram
+Alexander Holtz
+Rodion Amirov
+Ridly Greig
+Jake Bean
+Brett Berard
+dylan samberg
+Connor Zary
+Patrick Kane
+Nathan MacKinnon
+Mark Scheifele
+Sidney Crosby
+Connor Hellebuyck
+Darnell Nurse
+Morgan Rielly
+Alex Killorn
+Evgeny Kuznetsov
+Kasperi Kapanen
+Mitchell Marner
+Keith Yandle
+Ryan Nugent-Hopkins
+Jeff Carter
+Phil Kessel
+
+
+
+Vitaly Abramov
+German Rubtsov
+Riley Tufte
+Adam Mascherin
+
+Mitchell Vande Sompel
+Cam Dineen
+Matthew Strome
+Rasmus Kupari
+Jonatan Berggren
+Akil Thomas
+Jonathan Tychonick
+Conor Timmins
+Nick Henry
+Mason Shaw
+anttoni honka
+patrik puistola
+Jeremie Poirier
+Nils Lundkvist
+Connor McDavid
+Andrei Svechnikov
+John Klingberg
+Jack Roslovic
+Neal Pionk
+Jordan Greenway
+Timo Meier
+Joonas Donskoi
+Jakob Chychrun
+Calle Jarnkrok
+Miro Heiskanen
+Miles Wood
+Elias Pettersson
+Mike Reilly
+Jake DeBrusk
+Martin Necas
+
+
+Morgan Geekie
+Noah Gregor
+
+
+
+Logan Stanley
+Michael Rasmussen
+Timothy Liljegren
+K'Andre Miller
+Filip Hallander
+Casey Mittelstadt
+Lias Andersson
+Dylan cozens
+alexander chmelevski
+pavel dorofeyev
+cayden primeau
+Cole Perfetti
+Jan Jenik
+Justin Barron
+Jacob Perreault
+Matias Maccelli
+Jack Rathbone
+Luke Evangelista
+Brock Faber
+Noah Juulsen
+Sami Niku
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

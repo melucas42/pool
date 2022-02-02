@@ -1,7 +1,6 @@
 import requests
-import json
-from collections import defaultdict
 from dateutil.relativedelta import relativedelta
+from collections import defaultdict
 from datetime import datetime
 
 
@@ -10,8 +9,10 @@ class Players(object):
     nextId = 1
 
     def add(self, player):
-        existingPlayer = list(filter(lambda p: p.fullName.lower() ==
-                                     player.fullName.lower() and p.birthDate == player.birthDate, self.playerList))
+        
+        existingPlayer = list(filter(lambda p: p.nhlId ==
+                                     player.nhlId, self.playerList))
+
         if len(existingPlayer) == 0:
             player.draftId = self.nextId
             self.nextId += 1
@@ -20,10 +21,17 @@ class Players(object):
     def writePlayerList(self, path):
         self.playerList.sort(key=lambda p:p.fullName)
         #ut.sort(key=lambda x: x.count, reverse=True)
+        header = "ID\tName\tTeam\tPosition\tAge\tnhlId\tBirthDate\n"
+        f = open(path, "a")
+        f.writelines(header)
+
+        count = 1
         for player in self.playerList:
-            playerInfo = str(player.draftId) + "\t" + player.fullName + "\t" + \
+            playerInfo = str(count) + "\t" + \
+                player.fullName + "\t" + \
                 player.team + "\t" + player.position + \
-                "\t" + str(player.age) + "\n"
+                "\t" + str(player.age) + "\t" + str(player.nhlId)+ "\t" + str(player.birthDate) + "\n"
+            count += 1
             f = open(path, "a")
             f.writelines(playerInfo)
 
@@ -36,14 +44,13 @@ class Player(object):
     age = 0
     position = "N/A"
     team = "N/A"
-    isProspect = False
+    keeperDraftDate = ""
 
-    def __init__(self, id, isProspect=False):
-
-        self.nhlId = id
+    def __init__(self, id, keeperDraftDate, isProspect=False):
+        self.keeperDraftDate = keeperDraftDate
         if isProspect:
-            if id != "0":
-                self.setPropsectDetail(id)
+            #if id != "0":
+            self.setPropsectDetail(id)
         else:
             self.setPlayerDetail(id)
 
@@ -53,11 +60,17 @@ class Player(object):
         response = requests.get(url)
         data = response.json()
         player = data['prospects'][0]
-        self.fullName = player['fullName']
-        self.birthDate = player['birthDate']
-        self.age = self.getAgeAtDraft(player['birthDate'], "2018-09-23")
-        self.position = player['primaryPosition']['type']
-        self.isProspect = True
+        nhlPlayerId = player['nhlPlayerId']
+        if(nhlPlayerId != None):
+            self.setPlayerDetail(nhlPlayerId)
+        else:
+            #pas très utile en ce moment, si jamais on décide de siphonner la liste complète des prospect ça pourrait servir
+            self.nhlId = id
+            self.fullName = player['fullName']
+            self.birthDate = player['birthDate']
+            self.age = self.getAgeAtDate(player['birthDate'], self.keeperDraftDate)
+            self.position = player['primaryPosition']['type']
+            self.nhl = False
 
     def setPlayerDetail(self, id):
         # url sample : https://statsapi.web.nhl.com//api/v1/people/8470619
@@ -65,14 +78,17 @@ class Player(object):
         response = requests.get(url)
         data = response.json()
         player = data['people'][0]
+        self.nhlId = id
         self.fullName = player['fullName']
         self.birthDate = player['birthDate']
-        self.age = self.getAgeAtDraft(player['birthDate'], "2018-09-23")
+        self.age = self.getAgeAtDate(player['birthDate'], self.keeperDraftDate)
         self.position = player['primaryPosition']['type']
+        if(player["active"]):
+            self.team = player["currentTeam"]["name"]
 
-    def getAgeAtDraft(self, birthDate, draftDate):
-        birthDateOject = datetime.strptime(birthDate, '%Y-%M-%d')
-        draftDateObject = datetime.strptime(draftDate, '%Y-%M-%d')
+    def getAgeAtDate(self, birthDate, draftDate):
+        birthDateOject = datetime.strptime(birthDate, '%Y-%m-%d')
+        draftDateObject = datetime.strptime(draftDate, '%Y-%m-%d')
         ageInYears = relativedelta(
             draftDateObject, birthDateOject).years
         return ageInYears

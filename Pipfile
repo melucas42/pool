@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 requests = "*"
+pypdf2 = "*"
+python-dateutil = "*"
 
 [dev-packages]
 

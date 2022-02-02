@@ -6,7 +6,7 @@ from player import Players
 
 class TeamRoster(object):
 
-    def getTeamRoster(self, year, playerList):
+    def getTeamRoster(self, year, keeperDraftDate, playerList):
         print("Getting rosters for year", year)
         self.players = playerList
         # https://statsapi.web.nhl.com/api/v1/teams?expand=team.roster&season=20142015
@@ -18,6 +18,6 @@ class TeamRoster(object):
             print("Getting roster for team " +
                   team['abbreviation'] + " season " + year)
             for player in team['roster']['roster']:
-                p = Player(player['person']['id'])
-                p.team = team['abbreviation']
+                p = Player(player['person']['id'], keeperDraftDate)
+                #p.team = team['abbreviation']
                 playerList.add(p)

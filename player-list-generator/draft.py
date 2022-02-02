@@ -7,7 +7,7 @@ from player import Players
 
 class Draft(object):
 
-    def getDraftPlayers(self, draftYear, teams, playerList):
+    def getDraftPlayers(self, draftYear, keeperDraftDate, playerList):
         print("Getting draft " + str(draftYear))
         self.players = playerList
 
@@ -19,13 +19,14 @@ class Draft(object):
             for pick in round['picks']:
                 try:
                     id = pick['prospect']['id']
-                    player = Player(id, True)
-                    team = teams.getTeamFromName(pick['team']['name'])
-                    player.team = team.abbreviation
+                    player = Player(id, keeperDraftDate, True)
+                    #team = teams.getTeamFromName(pick['team']['name'])
+                    #player.team = team.abbreviation
 
                 except:
-                    id = "0"
-                    player = Player(id, True)
-                    player.fullName = pick['prospect']['fullName']
+                    print("No pick found for " + str(pick['year']) + " " + str(pick['round']) + " " + pick['team']['name'])
+                    # id = "0"
+                    #player = Player(id, keeperDraftDate, True)
+                    #player.fullName = pick['prospect']['fullName']
 
                 playerList.add(player)

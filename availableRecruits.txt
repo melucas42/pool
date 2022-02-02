@@ -1,0 +1,359 @@
+Name	Position	Ranking	age	Advice	Drafted	InFullList
+Benoit-Olivier Groulx	C	Draft Advice: Too soon.	21	82	True	True
+Brayden Tracey	LW	Draft Advice: Too soon.	20	118	True	True
+Jacob Perreault	RW	Draft Advice: Final-round option.	19	146	True	True
+Sam Colangelo	RW	Draft Advice: Too soon.	19	271	True	True
+Albin Sundsvik	C	Draft Advice: Long-term prospect.	20	277	False	True
+Bryce Kindopp	RW	Draft Advice: Too soon.	n/a	348	False	False
+Jamie Drysdale	RD	Draft Advice: Blue chip prospect, draft ASAP.	19	1D	True	True
+Josh Mahura	LD	Draft Advice: Final-round option.	23	23D	True	True
+Axel Andersson	RD	Draft Advice: Too soon.	21	46D	False	True
+Brendan Guhle	LD	Draft Advice: Do not draft.	24	72D	False	True
+Jackson Lacombe	LD	Draft Advice: Potential star.	20	85D	True	True
+Henry Thrun	LD	Draft Advice: Too soon.	20	142D	False	True
+Ian Moore	RD	Draft Advice: Long-term prospect.	19	241D	False	True
+Barrett Hayton	C	Draft Advice: Should be drafted in the first couple of rounds.	21	12	True	True
+Jan Jenik	W/	Draft Advice: Final-round option.	21	30	True	True
+Michael Bunting	LW	(2021: 66) Draft Advice: Final-round option.	26	66	False	True
+Matias Maccelli	LW	Draft Advice: Too soon.	20	141	True	True
+Lane Pederson	C	Draft Advice: Late-if your league tracks PIM or Hits).	24	144	False	True
+Liam Kirk	LW	Draft Advice: Too soon.	21	150	False	True
+John Farinacci	C	Draft Advice: Too soon.	20	153	True	True
+Alexandr Darin	LW	Draft Advice: Too soon.	21	325	False	True
+Valentin Nussbaumer	C/	Draft Advice: Long-term prospect.	20	363	False	True
+Aku Raty	RW	Draft Advice: Do not draft.	20	401	False	True
+Ben McCartney	LW	Draft Advice: Long-term prospect.	20	456	False	True
+Victor Soderstrom	RD	Draft Advice: Should be drafted in the first couple rounds.	20	6D	True	True
+Kyle Capobianco	LD	Draft Advice: Too soon.	24	38D	True	True
+Cam Dineen	RD	Draft Advice: Do not draft.	23	127D	True	True
+Jack Studnicka	C	Draft Advice: Middle-round option.	22	29	True	True
+Jakub Lauko	LW	Draft Advice: Final-round option.	21	170	False	True
+John Beecher	C	Draft Advice: Too soon.	20	191	True	True
+Oskar Steen	RW	Draft Advice: Too soon.	23	165	False	True
+Zach Senyshyn	RW	Draft Advice: Do not draft.	24	282	False	True
+Trevor Kuntar	C/	Draft Advice: Long-term prospect.	20	299	False	True
+Curtis Hall	RW	Draft Advice: Too soon.	21	386	False	True
+Jake Schmaltz	LW	Draft Advice: Do no draft.	20	527	False	True
+Jack Ahcan	LD	Draft Advice: Final-round option.	24	55D	False	True
+Mason Lohrei	LD	Draft Advice: Long-term prospect.	20	93D	False	True
+Urho Vaakanainen	LD	Draft Advice: Too soon.	22	130D	True	True
+Victor Berglund	RD	Draft Advice: Too soon.	22	152D	True	True
+Arttu Ruotsalainen	C	Draft Advice: A middle-round option.	23	60	False	True
+John-Jason Peterka	C/	Draft Advice: Final-round option.	n/a	92	False	False
+Jack Quinn	RW	Draft Advice: Final-round option.	20	93	True	True
+Lukas Rousek	RW	Draft Advice: Too soon.	22	168	False	True
+Matej Pekar	C	Draft Advice: Too soon.	21	171	False	True
+Brett Murray	LW	Draft Advice: Too soon.	23	196	False	True
+Linus Weissbach	LW	Draft Advice: Too soon.	23	198	False	True
+Aaron Huglen	RW	Draft Advice: Long-term prospect.	20	435	False	True
+Mattias Samuelsson	LD	Draft Advice: Final-round option.	21	27D	True	True
+Oskari Laaksonen	RD	Draft Advice: Too soon.	22	68D	True	True
+Ryan Johnson	LD	Draft Advice: Long-term prospect.	20	95D	True	True
+Jakob Pelletier	LW	Draft Advice: Blue-chip prospect, draft ASAP.	20	27	True	True
+Connor Zary	C/	Draft Advice: Blue-chip prospect.	19	38	True	True
+Matthew Phillips	RW	Draft Advice: Final-round option.	23	120	True	True
+Glenn Gawdin	C	Draft Advice: Too soon.	24	147	False	True
+Emilio Pettersen	C/	Draft Advice: Too soon.	21	149	True	True
+Adam Ruzicka	C	Draft Advice: Too soon.	22	169	False	True
+Dmitry Zavgorodny	W	Draft Advice: Long-term prospect.	n/a	254	False	False
+Emil Heineman	LW	Draft Advice: Long-term prospect.	19	389	False	True
+Martin Pospisil	C/	Draft Advice: Too soon.	21	228	False	True
+Ryan Francis	C/	Draft Advice: Long-term prospect.	19	256	False	True
+Johannes Kinnvall	RD	Draft Advice: Too soon.	n/a	60	False	False
+Jeremie Poirier	LD	Draft Advice: Potential star, draft in late rounds (if you can afford to wait a few years).	19	80D	True	True
+Connor Mackey	LD	Draft Advice: Late-if your league tracks PIM or Hits).	25	144D	False	True
+Ilya Solovyov	LD	Draft Advice: Long-term prospect.	21	230D	False	True
+Seth Jarvis	C	Draft Advice: Blue-chip prospect, draft ASAP.	19	17	True	True
+Jack Drury	C	Draft Advice: Final-round option.	21	80	True	True
+Noel Gunler	RW	Draft Advice: Potential star, draft in late rounds (if you can afford to wait a few years).	19	81	True	True
+Ryan Suzuki	C	Draft Advice: Potential star, draft in late rounds (If you can afford to wait a few years).	20	89	True	True
+Jamieson Rees	C	Draft Advice: Potential star, draft in late rounds (if you can afford to wait a few years).	20	100	True	True
+Dominik Bokk	RW	Draft Advice: Too soon.	21	103	True	True
+David Cotton	C	Draft Advice: Final-round option.	24	130	False	True
+Patrik Puistola	RW	Draft Advice: Long-term prospect.	20	140	True	True
+Yegor Korshkov	RW	Draft Advice: Long-term prospect.	n/a	181	False	False
+Zion Nybeck	C	Draft Advice: Long-term prospect.	19	239	True	True
+Vasiliy Ponomarev	C	Draft Advice: Too soon.	19	246	True	True
+Joey Keane	RD	Draft Advice: Too soon.	22	45D	True	True
+Anttoni Honka	D	Draft Advice: Too soon.	20	163D	True	True
+Alexander Nikishin	LD	Draft Advice: Long-term prospect.	19	238D	False	True
+Lukas Reichel	C	Draft Advice: Final-round option.	19	43	True	True
+Henrik Borgstrom	F	Draft Advice: Final-round option.	24	67	False	True
+Mike Hardman	C	Draft Advice: Late-if your league tracks PIM or Hits).	22	163	False	True
+Evan Barratt	C	Draft Advice: Too soon.	22	172	False	True
+Andrei Altybarmakyan	RW	Draft Advice: Too soon.	n/a	180	False	False
+Artur Kayumov	LW	Draft Advice: Too soon.	23	202	False	True
+Michal Teply	RW	Draft Advice: Long-term prospect.	20	317	False	True
+Landon Slaggert	LW	Draft Advice: Long-term prospect.	19	376	False	True
+Nicolas Beaudin	LD	Draft Advice: Final-round option.	21	21D	True	True
+Wyatt Kalynuk	LD	Draft Advice: Middle-round option.	24	19D	False	True
+Alex Regula	RD	Draft Advice: Too soon.	n/a	83D	False	False
+Alex Vlasic	LD	Draft Advice: Long-term prospect.	20	147D	True	True
+Alex Newhook	C	Draft Advice: Blue-chip prospect, draft ASAP.	20	4	True	True
+Sampo Ranta	LW	Draft Advice: Final-round option.	21	96	False	True
+Alex Beaucage	RW	Draft Advice: Potential star, draft in late rounds (if you can afford to wait a few years).	20	108	True	True
+Martin Kaut	RW	Draft Advice: Middle-round option.	21	128	True	True
+Jean-Luc Foudy	C	Draft Advice: Too soon.	19	245	False	True
+Nick Henry	RW	Draft Advice: Do not draft.	22	328	True	True
+Bowen Byram	LD	Draft Advice: Blue-chip prospect, draft ASAP.	20	2D	True	True
+Conor Timmins	RD	Draft Advice: Should be drafted in the first couple rounds.	23	18D	True	True
+Justin Barron	RD	Draft Advice: Too soon.	19	103D	True	True
+Drew Helleson	RD	Draft Advice: Too soon.	20	143D	False	True
+Danil Zhuravlyov	LD	Draft Advice: Potential star, draft in late rounds (if you can afford to wait a few years).	n/a	249D	False	False
+Liam Foudy	C	Draft Advice: Final-round option.	21	32	True	True
+Yegor Chinakhov	RW	Draft Advice: Should be drafted in the first couple of rounds.	20	55	True	True
+Kirill Marchenko	RW	Draft Advice: Final-round option.	21	109	True	True
+Trey Fix-Wolansky	RW	Draft Advice: Potential star, draft in late rounds (if you can afford to wait a few years).	22	114	True	True
+Gregory Hofmann	LW	Draft Advice: Final-round option.	n/a	129	False	False
+Tyler Angle	C	Draft Advice: Too soon.	20	229	False	True
+Dmitri Voronkov	C	Draft Advice: Long-term prospect.	21	313	False	True
+Carson Meyer	RW	Draft Advice: Do not draft.	24	358	False	True
+Samuel Knazko	LD	Draft Advice: Long-term prospect.	19	215	False	True
+Andrew Peeke	RD	Draft Advice: Do not draft.	23	73D	True	True
+Jake Christiansen	LD	Draft Advice: Do not draft.	n/a	114D	False	False
+Ole Julian Bjorgvik-Holm	LD	Draft Advice: Long-term prospect.	19	207D	False	True
+Ty Dellandrea	C	Draft Advice: Should be drafted in the first couple of rounds.	21	23	True	True
+Riley Damiani	C/	Draft Advice: Final-round option.	21	62	False	True
+Jacob Peterson	C	Draft Advice: Long-this year or next.	22	216	False	True
+Riley Tufte	LW	Draft Advice: Long-term prospect.	23	223	True	True
+Jordan Kawaguchi	C	Draft Advice: Too soon.	n/a	235	False	False
+Wait until next year to consider drafting  Adam Mascherin	C/	Draft Advice: Too soon.	n/a	260	False	False
+Wait until next year to consider drafting  Fredrik Karlstrom	C	Draft Advice: Do not draft.	n/a	306	False	False
+Antonio Stranges	C	Draft Advice: Long-term prospect.	19	447	False	True
+Daniel Ljungman	C	Draft Advice: Long-term prospect.	19	455	False	True
+Thomas Harley	LD	Draft Advice: Blue-chip prospect, draft ASAP.	20	16D	True	True
+Ryan Shea	LD	Draft Advice: Too soon.	24	126D	False	True
+Lucas Raymond	RW	Draft Advice: Blue-chip prospect, draft ASAP.	19	15	True	True
+Jonatan Berggren	LW	Draft Advice: Should be drafted in the first couple of rounds.	21	36	True	True
+Joe Veleno	C	Draft Advice: Final-round option.	21	59	True	True
+Theodor Niederbach	C/	Draft Advice: Potential star, draft in late rounds (if you can afford to wait a few years).	19	189	True	True
+Taro Hirose	LW	(2021: 195) Draft Advice: Do not draft.	25	195	False	True
+Elmer Soderblom	LW	Draft Advice: Do not draft.	20	326	False	True
+Moritz Seider	RD	Draft Advice: Blue-chip prospect, draft ASAP.	20	12D	True	True
+Dennis Cholowski	LD	Draft Advice: Final-round option.	23	37D	True	True
+Antti Tuomisto	RD	Draft Advice: Long-term prospect.	20	153D	True	True
+Albert Johansson	LD	Draft Advice: Long-term prospect.	20	176D	True	True
+William Wallinder	LD	Draft Advice: Final-round option.	19	182D	True	True
+Dylan Holloway	C	Draft Advice: Should be drafted in the first couple of rounds.	19	42	True	True
+Ryan McLeod	C	Draft Advice: Final-round option.	21	87	True	True
+Raphael Lavoie	RW	Draft Advice: Too soon.	20	107	True	True
+Tyler Benson	LW	Draft Advice: Long-term prospect.	23	112	True	True
+Carter Savoie	LW	Draft Advice: Long-term prospect.	19	330	False	True
+Tyler Tullio	C	Draft Advice: Long-term prospect.	19	410	False	True
+Maxim Denezhkin	C	Draft Advice: Do not draft.	20	515	False	True
+Evan Bouchard	RD	Draft Advice: Final-round option.	21	3D	True	True
+Dmitri Samorukov	LD	Draft Advice: Final-round option.	22	110D	True	True
+Grigori Denisenko	LW	Draft Advice: Blue-chip prospect, draft ASAP.	21	10	True	True
+Anton Lundell	C	Draft Advice: Blue-chip prospect, draft ASAP.	19	16	True	True
+Aleksi Heponiemi	C/	Draft Advice: Final-round option.	22	44	True	True
+Aleksi Saarela	C/	Draft Advice: Final-round option.	24	98	False	True
+Logan Hutsko	RW	Draft Advice: Too soon.	22	159	False	True
+Serron Noel	RW	Draft Advice: Long-term prospect.	21	178	True	True
+Cole Schwindt	RW	Draft Advice: Too soon.	20	300	False	True
+Justin Sourdif	C	Draft Advice: Long-term prospect.	19	338	False	True
+Ty Smilanic	C	Draft Advice: Long-term prospect.	19	436	False	True
+Max Gildon	LD	Draft Advice: Final-round option.	22	31D	True	True
+Lucas Carlsson	LD	Draft Advice: Too soon.	24	41D	False	True
+Matt Kiersted	LD	Draft Advice: Too soon.	23	112D	False	True
+Michael Benning	RD	Draft Advice: Long-term prospect.	19	197D	False	True
+Quinton Byfield	C	Draft Advice: Blue-chip prospect, draft ASAP.	19	3	True	True
+Alex Turcotte	C	Draft Advice: Blue-chip prospect, draft ASAP.	20	33	True	True
+Arthur Kaliyev	LW	Draft Advice: Should be drafted in the first couple rounds.	20	35	True	True
+Rasmus Kupari	C	Draft Advice: Middle-round option.	21	39	True	True
+Tyler Madden	C	Draft Advice: Final-round option.	21	71	True	True
+Samuel Fagemo	LW	Draft Advice: Potential star, draft in late rounds (if you can afford to wait a few years).	21	72	True	True
+Vladimir Tkachyov	W	Draft Advice: Final-round option.	n/a	111	False	False
+Akil Thomas	C	Draft Advice: Too soon.	21	139	True	True
+Aiden Dudas	C	Draft Advice: Long-term prospect.	n/a	173	False	False
+Kale Clague	LD	Draft Advice: Should be drafted in the first couple of rounds.	23	20D	True	True
+Helge Grans	RD	Draft Advice: Too soon.	19	66D	True	True
+Sean Durzi	RD	Draft Advice: Final-round option.	22	71D	True	True
+Jacob Moverare	LD	Draft Advice: Too soon.	23	91D	False	True
+Jordan Spence	RD	Draft Advice: Potential star, draft in late rounds (if you can afford to wait a few years).	20	92D	False	True
+Brock Faber	RD	Draft Advice: Too soon.	19	116D	True	True
+Marco Rossi	C	Draft Advice: Blue-chip prospect, draft ASAP.	19	8	True	True
+Matthew Boldy	LW	Draft Advice: Blue-chip prospect, draft ASAP.	n/a	18	False	False
+Alexander Khovanov	C	Draft Advice: Final-round option.	21	51	True	True
+Adam Beckman	LW	Draft Advice: Final-round option.	20	91	True	True
+Connor Dewar	C/	Draft Advice: Too soon.	22	154	False	True
+Mason Shaw	C	Draft Advice: Too soon at this point.	22	158	True	True
+Wait until next year to draft.   Damien Giroux	C	Draft Advice: Too soon at this point.	n/a	183	False	False
+Wait until next year to draft.  Marat Khusnutdinov	C	Draft Advice: Too soon.	n/a	190	False	False
+Mitchell Chaffee	RW	Draft Advice: Do not draft.	n/a	231	False	False
+Vladislav Firstov	LW	Draft Advice: Long-term prospect.	20	252	True	True
+Ivan Lodnia	RW	Draft Advice: Long-term prospect.	22	274	False	True
+Nikita Nesterenko	C	Draft Advice: Long-term prospect.	20	489	False	True
+Calen Addison	RD	Draft Advice: Blue-chip prospect, draft ASAP.	21	4D	True	True
+Brennan Menell	RD	Draft Advice: Final-round option.	24	53D	False	True
+Daemon Hunt	LD	Draft Advice: Long-term prospect.	19	156D	False	True
+	LD	Draft Advice: Too soon.	Position	172D	True	True
+Cole Caufield	RW	Draft Advice: Blue-chip prospect, draft ASAP.	20	1	True	True
+Ryan Poehling	C	Draft Advice: Too soon.	22	73	True	True
+Jesse Ylonen	RW	Draft Advice: Final-round option.	21	86	True	True
+Jan Mysak	C/	Draft Advice: Long-term prospect.	19	162	True	True
+Joel Teasdale	LW	Draft Advice: Too soon.	n/a	267	False	False
+Sean Farrell	LW	Draft Advice: Long-term prospect.	19	297	False	True
+Luke Tuch	LW	Draft Advice: Long-term prospect.	19	318	False	True
+Kaiden Guhle	LD	Draft Advice: Too soon.	19	24D	True	True
+Mattias Norlinder	LD	Draft Advice: Potential star, draft in late rounds (if you can afford to wait a few years).	21	33D	True	True
+Jordan Harris	LD	Draft Advice: Too soon.	21	48D	False	True
+Josh Brook	RD	Draft Advice: Too soon.	22	58D	True	True
+Jayden Struble	LD	Draft Advice: Long-term prospect.	20	168D	True	True
+Gianni Fairbrother	LD	Draft Advice: Do not draft.	20	228D	False	True
+Philip Tomasino	C	Draft Advice: Blue-chip prospect, draft ASAP.	20	14	True	True
+Tanner Jeannot	LW	Draft Advice: Late-eiling).	24	105	False	True
+Rem Pitlick	LW	Draft Advice: Too soon.	24	121	False	True
+Thomas Novak	C	Draft Advice: Long-term prospect.	24	131	False	True
+Grant Mismash	LW	Draft Advice: Too soon.	22	301	False	True
+Juuso Parssinen	C	Draft Advice: Too soon.	20	343	False	True
+Luke Evangelista	RW	Draft Advice: Too soon.	19	347	True	True
+Alexander Campbell	C	Draft Advice: Long-term prospect.	20	484	True	True
+David Farrance	LD	Draft Advice: Should be drafted in the first couple of rounds.	22	14D	True	True
+Frederic Allard	LD	Draft Advice: Do not draft.	23	75D	True	True
+Alexander Holtz	RW	Draft Advice: Should be drafted in the first couple rounds.	19	22	True	True
+Nolan Foote	LW	Draft Advice: Middle-round option.	20	69	True	True
+Dawson Mercer	RW	Draft Advice: Final-round option.	19	84	True	True
+Tyce Thompson	C	Draft Advice: Too soon.	22	106	False	True
+Nate Schnarr	C	Draft Advice: Late-.	22	194	False	True
+Marian Studenic	RW	Draft Advice: Do not draft.	22	186	False	True
+Reilly Walsh	RD	Draft Advice: Final-round option.	22	42D	False	True
+Michael Vukojevic	LD	Draft Advice: Long-term prospect.	20	179D	False	True
+Shakir Mukhamadullin	LD	Draft Advice: Do not draft.	19	221D	True	True
+Otto Koivula	C	Draft Advice: Too soon.	23	88	True	True
+Kieffer Bellows	LW	Draft Advice: Final-round option.	23	47	True	True
+Anatoly Golyshev	LW	Draft Advice: Long-term prospect.	n/a	138	False	False
+Ruslan Iskhakov	RW	Draft Advice: Long-term prospect.	21	205	True	True
+Josh Ho-Sang	RW	(2021: 209) Draft Advice: Do not draft.	n/a	209	False	False
+Colin Adams	C	Draft Advice: Too soon.	n/a	290	False	False
+William Dufour	RW	Draft Advice: Long-term prospect.	19	341	False	True
+Reece Newkirk	C	Draft Advice: Do not draft.	20	364	False	True
+Alex Jefferies	LW	Draft Advice: Long-term prospect.	19	460	False	True
+Bode Wild	RD	Draft Advice: Final-round option.	21	25D	True	True
+Robin Salo	LD	Draft Advice: Final-round option.	22	29D	False	True
+Samuel Bolduc	LD	Draft Advice: Long-term prospect.	20	56D	False	True
+Vitali Kravtsov	RW	Draft Advice: Blue-chip prospect, draft ASAP.	21	26	True	True
+Morgan Barron	C	Draft Advice: Middle-round option.	22	58	False	True
+Lauri Pajuniemi	RW	Draft Advice: Final-round option.	22	119	False	True
+Tim Gettinger	LW	Draft Advice: Too soon.	23	211	False	True
+Brett Berard	LW	Draft Advice: Potential star, draft in late rounds (if you can afford to wait a few years).	19	278	True	True
+Karl Henriksson	C	Draft Advice: Too soon.	20	344	False	True
+Evan Vierling	C	Draft Advice: Too soon.	19	478	False	True
+Nils Lundkvist	RD	Draft Advice: Blue-chip prospect, draft ASAP.	21	5D	True	True
+Zac Jones	LD	Draft Advice: Middle-round option.	20	44D	False	True
+Tarmo Reunanen	LD	Draft Advice: Do not draft.	23	74D	False	True
+Braden Schneider	RD	Draft Advice: Final-round option.	19	78D	True	True
+Matthew Robertson	LD	Draft Advice: Too soon.	20	90D	False	True
+Shane Pinto	C	Draft Advice: He should be drafted in the first couple of rounds.	20	25	True	True
+Alex Formenton	LW	Draft Advice: Final-round option.	22	61	True	True
+Logan Brown	C	Draft Advice: Too soon.	23	126	True	True
+Vitali Abramov	LW	Draft Advice: Long-term prospect.	n/a	151	False	False
+Egor Sokolov	LW	Draft Advice: Too soon.	21	156	True	True
+Angus Crookshank	LW	Draft Advice: Too soon.	21	335	False	True
+Roby Jarventie	LW	Draft Advice: Too soon.	19	339	True	True
+Viktor Lodin	C/	Draft Advice: Long-term prospect.	22	393	False	True
+Philippe Daoust	C/	Draft Advice: Long-term prospect.	19	504	False	True
+Jake Sanderson	LD	Draft Advice: Should be drafted in the first couple of rounds.	19	30D	True	True
+Lassi Thomson	RD	Draft Advice: Too soon.	20	39D	True	True
+Jacob Bernard-Docker	RD	Draft Advice: Final-round option.	21	61D	True	True
+Morgan Frost	C	Draft Advice: Blue-chip prospect, draft ASAP.	22	6	True	True
+Tanner Laczynski	C/	Draft Advice: Too soon.	24	85	False	True
+Tyson Foerster	C	Draft Advice: Middle-round option.	19	94	True	True
+Bobby Brink	RW	Draft Advice: Too soon.	20	117	True	True
+Wade Allison	RW	Draft Advice: Late-if your league tracks PIM or Hits).	23	142	False	True
+Zayde Wisdom	C	Draft Advice: Too soon.	19	145	False	True
+Isaac Ratcliffe	LW	Draft Advice: Too soon at this point.	22	176	True	True
+Wait until next year to draft.	C	Draft Advice: Long-term prospect.	n/a	201	False	False
+Elliot Desnoyers	LW	Draft Advice: Too soon.	19	308	True	True
+Connor McClennon	RW	Draft Advice: Long-term prospect.	19	434	False	True
+Cam York	LD	Draft Advice: Should be drafted in the first couple of rounds.	20	11D	True	True
+Yegor Zamula	LD	Draft Advice: Final-round option.	n/a	43D	False	False
+Ronnie Attard	RD	Draft Advice: Too soon.	22	119D	False	True
+Samuel Poulin	LW	Draft Advice: Middle-round option.	n/a	34	False	False
+Radim Zohorna	LW	Draft Advice: Final-round option.	25	75	False	True
+	LW	Draft Advice: Too soon.	Position	148	True	True
+Kasper Bjorkqvist	RW	Draft Advice: Late-if your league tracks PIM or Hits).	24	197	False	True
+Nathan Legare	RW	Draft Advice: Too soon.	20	210	True	True
+Jordy Bellerive	C	Draft Advice: Late-if your league tracks PIM or Hits).	n/a	217	False	False
+Jonathan Gruden	LW	Draft Advice: Long-term prospect.	21	405	False	True
+Lukas Svejkovsky	RW	Draft Advice: Long-term prospect.	19	409	False	True
+Pierre-Olivier Joseph	LD	Draft Advice: Should be drafted in the first couple of rounds.	22	10D	True	True
+Jesper Lindgren	RD	Draft Advice: Too soon.	24	63D	False	True
+Cam Lee	LD	Draft Advice: Too soon.	n/a	79D	False	False
+Sasha Chmelevski	RW	Draft Advice: Middle-round option.	n/a	37	False	False
+Thomas Bordeleau	C	Draft Advice: Final-round option.	19	53	True	True
+Joachim Blichfeld	RW	Draft Advice: Final-round option.	23	57	True	True
+Jonathan Dahlen	LW	Draft Advice: Final-round option.	23	83	False	True
+Ivan Chekhovich	LW	Draft Advice: Too soon.	22	95	True	True
+Tristen Robins	RW	Draft Advice: Too soon.	19	133	True	True
+Alexander True	C	Draft Advice: Late-if your league tracks PIM or Hits).	24	143	False	True
+Ozzy Wiesblatt	RW	Draft Advice: Too soon.	19	203	True	True
+Scott Reedy	C	Draft Advice: Do not draft.	22	294	False	True
+Jasper Weatherby	C	Draft Advice: Late-if your league tracks PIM or Hits).	23	319	False	True
+Adam Raska	LW	Draft Advice: Do not draft.	19	463	False	True
+Ryan Merkley	RD	Draft Advice: Should be drafted in the first couple of rounds.	21	8D	True	True
+Brinson Pasichnuk	LD	Draft Advice: Late-if your league tracks PIM or Hits).	23	64D	False	True
+Artemi Knyazev	LD	Draft Advice: Too soon.	n/a	140D	False	False
+Luke Henman	C	Draft Advice: Long-term prospect.	21	315	False	True
+Klim Kostin	LW	Draft Advice: Final-round option.	22	77	True	True
+Nikita Alexandrov	C	Draft Advice: Too soon.	21	123	True	True
+Jake Neighbours	LW	Draft Advice: Middle-round option.	19	152	True	True
+Mathias Laferriere	RW	Draft Advice: Long-term prospect.	21	227	False	True
+Alexei Toropchenko	RW	Draft Advice: Should be drafted in the first couple of rounds.	22	238	False	True
+Mitch Reinke	RD	(2021: 107D) Draft Advice: Do not draft.	25	107D	False	True
+Tyler Tucker	LD	Draft Advice: Long-term prospect.	21	118D	False	True
+Matt Kessel	RD	Draft Advice: Long-term prospect.	n/a	195D	False	False
+Alex Barre-Boulet	C/	Draft Advice: Should be drafted in the first couple rounds.	24	19	False	True
+Rodion Amirov	LW	Draft Advice: Middle-round option.	19	64	True	True
+Filip Hallander	W	Draft Advice: Final-round option.	21	113	True	True
+Nicolas Abruzzese	C	Draft Advice: Too soon.	n/a	161	False	False
+Mikhail Abramov	C	Draft Advice: Too soon.	20	200	False	True
+Semyon Der-Arguchintsev	C	Draft Advice: Potential star, draft in late rounds (if you can afford to wait a few years).	21	222	True	True
+Roni Hirvonen	C	Draft Advice: Long-term prospect.	19	281	True	True
+Alex Steeves	C	Draft Advice: Too soon.	n/a	302	False	False
+Pontus Holmberg	LW	Draft Advice: Too soon.	22	334	False	True
+Veeti Miettinen	RW	Draft Advice: Potential star, draft in late rounds (if you can afford to wait a few years).	19	356	False	True
+Dmitri Ovchinnikov	LW	Draft Advice: Long-term prospect.	n/a	518	False	False
+Rasmus Sandin	LD	Draft Advice: Should be drafted in the first couple rounds.	21	7D	True	True
+Timothy Liljegren	RD	Draft Advice: Middle-round option.	22	26D	True	True
+Mac Hollowell	RD	Draft Advice: Too soon.	22	87D	False	True
+Topi Niemela	RD	Draft Advice: Too soon.	19	89D	True	True
+Vasily Podkolzin	RW	Draft Advice: Blue-chip prospect, draft ASAP.	20	20	True	True
+Kole Lind	RW	Draft Advice: Final-round option.	22	65	True	True
+Jonah Gadjovich	LW	Draft Advice: Too soon.	22	184	False	True
+William Lockwood	RW	Draft Advice: Too soon.	23	237	False	True
+Aidan McDonough	LW	Draft Advice: Do not draft.	21	377	False	True
+Lukas Jasek	RW	Draft Advice: Do not draft.	24	441	False	True
+Linus Karlsson	C	Draft Advice: Do not draft.	21	444	False	True
+Petrus Palmu	LW	Draft Advice: Do not draft.	24	451	False	True
+Jack Rathbone	LD	Draft Advice: Should be drafted in the first couple of rounds.	22	17D	True	True
+Jett Woo	RD	Draft Advice: Too soon.	21	47D	True	True
+Peyton Krebs	C	Draft Advice: Blue-chip prospect, draft ASAP.	20	13	True	True
+Jack Dugan	LW	Draft Advice: Middle-round option.	23	24	True	True
+Brendan Brisson	C/	Draft Advice: Final-round option.	19	52	True	True
+Lucas Elvenes	RW	Draft Advice: Final-round option.	22	63	True	True
+Pavel Dorofeyev	LW	Draft Advice: Long-term prospect.	20	115	True	True
+Ivan Morozov	C	Draft Advice: Too soon.	21	122	True	True
+Brandon Kruse	LW	Draft Advice: Too soon.	22	266	False	True
+Lukas Cormier	LD	Draft Advice: Long-term prospect.	19	50D	True	True
+Kaedan Korczak	RD	Draft Advice: Do not draft.	20	52D	True	True
+Daniil Miromanov	RW	Draft Advice: Too soon.	n/a	105D	False	False
+Peter Diliberatore	LD	Draft Advice: Long-term prospect.	21	188D	False	True
+Connor McMichael	C	Draft Advice: Blue-chip prospect, draft ASAP.	20	7	True	True
+Hendrix Lapierre	C	Draft Advice: Middle-round option.	19	54	True	True
+Garrett Pilon	RW	Draft Advice: Final-round option.	23	110	False	True
+Alexei Protas	C	Draft Advice: Too soon.	n/a	208	False	False
+Joe Snively	LW	Draft Advice: Too soon.	n/a	286	False	False
+Damien Riat	RW	Draft Advice: Too soon.	24	295	False	True
+Oskar Magnusson	RW	Draft Advice: Do not draft.	19	422	False	True
+Alexander Alexeyev	LD	Draft Advice: Should be drafted in the first couple of rounds.	21	13D	True	True
+Martin Fehervary	LD	Draft Advice: Final-round option.	21	57D	False	True
+Lucas Johansen	LD	Draft Advice: Do not draft.	23	205D	False	True
+Cole Perfetti	C	Draft Advice: Final-round option.	19	11	True	True
+David Gustafsson	C	Draft Advice: Too soon.	21	79	False	True
+Pavel Kraskovsky	C	Draft Advice: Potential star, draft in late rounds (if you can afford to wait a few years).	25	258	False	True
+Daniel Torgersson	LW	Draft Advice: Long-term prospect.	19	365	True	True
+Ville Heinola	LD	Draft Advice: Middle-round option.	20	15D	True	True
+Dylan Samberg	LD	Draft Advice: Too soon.	22	40D	True	True
+Sami Niku	LD	Draft Advice: Do not draft.	24	65D	True	True
+Declan Chisholm	LD	Draft Advice: Too soon.	21	120D	False	True
+Leon Gawanke	RD	Draft Advice: Too soon.	22	122D	False	True
